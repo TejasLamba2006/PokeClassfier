@@ -31,7 +31,6 @@ export async function analyzeChatPersonalities(
   }>
 ) {
   try {
-    // First, analyze personalities from the chat
     const { object: personalityAnalysis } = await generateObject({
       model: google("gemini-1.5-flash"),
       schema: PersonalityAnalysisSchema,
@@ -59,7 +58,6 @@ export async function analyzeChatPersonalities(
       `,
     });
 
-    // Match each participant with a Pokémon
     const matches = await Promise.all(
       personalityAnalysis.participants.map(async (participant) => {
         const { object: pokemonMatch } = await generateObject({
@@ -94,7 +92,7 @@ export async function analyzeChatPersonalities(
 
         return {
           participant: participant.name,
-          pokemon: pokemon || pokemonDatabase[0], // Fallback to first Pokémon
+          pokemon: pokemon || pokemonDatabase[0],
           confidence: pokemonMatch.confidence,
           reasoning: pokemonMatch.reasoning,
           traits: pokemonMatch.matchedTraits,

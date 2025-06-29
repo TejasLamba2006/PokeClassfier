@@ -29,8 +29,7 @@ export function PremiumSection() {
   const [isGrantingPremium, setIsGrantingPremium] = useState(false);
 
   const handleJoinDiscord = () => {
-    const discordUrl =
-      process.env.NEXT_PUBLIC_DISCORD_URL ?? "https:
+    const discordUrl = process.env.NEXT_PUBLIC_DISCORD_URL;
     window.open(discordUrl, "_blank", "noopener,noreferrer");
   };
 
@@ -39,7 +38,6 @@ export function PremiumSection() {
 
     setIsGrantingPremium(true);
     try {
-      
       alert(
         "🎉 Premium access granted! You now have unlimited photo analyses. Refresh the page to see changes."
       );
@@ -52,10 +50,7 @@ export function PremiumSection() {
     }
   };
 
-  const isPremium =
-    session?.user?.name?.includes("Premium") ||
-    session?.user?.name?.includes("premium") ||
-    session?.user?.email?.includes("premium");
+  const isPremium = false;
 
   return (
     <section className="py-16 bg-gradient-to-br from-purple-50 via-blue-50 to-indigo-50">

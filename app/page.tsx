@@ -15,6 +15,7 @@ import { Badge } from "@/components/ui/badge";
 import { UploadZone } from "@/components/upload-zone";
 import { PokemonResults } from "@/components/pokemon-results";
 import { PremiumSection } from "@/components/premium-section";
+import { AdminNav } from "@/components/admin-nav";
 import { useAuth } from "@/hooks/use-auth";
 import { useUsage } from "@/hooks/use-usage";
 
@@ -82,6 +83,7 @@ export default function HomePage() {
                 </Badge>
               </div>
             )}
+            <AdminNav />
             <Button onClick={signIn} variant={user ? "outline" : "default"}>
               {user ? user.name : "Sign In"}
             </Button>

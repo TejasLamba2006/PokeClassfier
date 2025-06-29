@@ -100,7 +100,6 @@ export function PokemonResults({ results, onReset }: PokemonResultsProps) {
 
   return (
     <div className="space-y-6">
-      {/* Header */}
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
@@ -187,7 +186,6 @@ export function PokemonResults({ results, onReset }: PokemonResultsProps) {
 
             <Separator />
 
-            {/* Description */}
             <div>
               <h4 className="font-medium text-gray-900 mb-2">Pokédex Entry</h4>
               <p className="text-sm text-gray-600">
@@ -208,8 +206,6 @@ export function PokemonResults({ results, onReset }: PokemonResultsProps) {
                 ))}
               </div>
             </div>
-
-            {/* Visual Traits Detected */}
             <div>
               <h4 className="font-medium text-gray-900 mb-2">
                 Visual Traits Detected
@@ -224,7 +220,6 @@ export function PokemonResults({ results, onReset }: PokemonResultsProps) {
               </div>
             </div>
 
-            {/* Personality Traits Detected */}
             <div>
               <h4 className="font-medium text-gray-900 mb-2">
                 Personality Traits Detected
@@ -239,7 +234,6 @@ export function PokemonResults({ results, onReset }: PokemonResultsProps) {
               </div>
             </div>
 
-            {/* AI Reasoning */}
             <div>
               <h4 className="font-medium text-gray-900 mb-2">AI Analysis</h4>
               <p className="text-sm text-gray-600 bg-gray-50 rounded-lg p-3">

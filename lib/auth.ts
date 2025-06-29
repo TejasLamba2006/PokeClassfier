@@ -12,12 +12,21 @@ export const authOptions: NextAuthOptions = {
     }),
   ],
   callbacks: {
-    session: ({ session, user }) => ({
-      ...session,
-      user: {
-        ...session.user,
-        id: user.id,
-      },
-    }),
+    session: async ({ session, user }) => {
+      const dbUser = await db.user.findUnique({
+        where: { id: user.id },
+        select: { role: true, isPremium: true },
+      });
+
+      return {
+        ...session,
+        user: {
+          ...session.user,
+          id: user.id,
+          role: dbUser?.role ?? "CUSTOMER",
+          isPremium: dbUser?.isPremium ?? false,
+        },
+      };
+    },
   },
 };
