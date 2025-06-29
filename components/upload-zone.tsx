@@ -171,13 +171,13 @@ export function UploadZone({
           <div className="flex items-center space-x-2">
             <Loader2 className="w-4 h-4 animate-spin" />
             <span className="text-sm font-medium">
-              Analyzing chat personalities...
+              Analyzing your personality...
             </span>
           </div>
           <Progress value={uploadProgress} className="w-full" />
           <p className="text-xs text-gray-500">
-            This may take a few moments while we process your images and analyze
-            personalities
+            This may take a few moments while we process your photos and analyze
+            your personality traits
           </p>
         </div>
       )}
@@ -185,7 +185,7 @@ export function UploadZone({
       {files.length > 0 && !isAnalyzing && (
         <Button onClick={handleAnalyze} className="w-full" size="lg">
           <Sparkles className="w-4 h-4 mr-2" />
-          Analyze Chat Personalities
+          Analyze My Personality
         </Button>
       )}
     </div>

@@ -2324,7 +2324,6 @@ export const pokemonDatabase = [
     description:
       "The small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
     personality: ["Small", "Hooks", "Hanging", "Climbing"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 253,
@@ -2333,7 +2332,6 @@ export const pokemonDatabase = [
     description:
       "The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest.",
     personality: ["Leaves", "Camouflaging", "Forest", "Hidden"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 254,
@@ -2342,7 +2340,6 @@ export const pokemonDatabase = [
     description:
       "The leaves growing on Sceptile's body are very sharp edged. This Pokémon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind.",
     personality: ["Sharp", "Agile", "Leaping", "Jumping"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 255,
@@ -2351,7 +2348,6 @@ export const pokemonDatabase = [
     description:
       "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit.",
     personality: ["Following", "Unsteady", "Hot", "Loyal"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 256,
@@ -2360,7 +2356,6 @@ export const pokemonDatabase = [
     description:
       "Combusken toughens up its legs and thighs by running through fields and mountains. This Pokémon's legs possess both speed and power.",
     personality: ["Toughening", "Running", "Speed", "Power"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 257,
@@ -2369,7 +2364,6 @@ export const pokemonDatabase = [
     description:
       "In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pokémon's wrists burn.",
     personality: ["Intense", "Courageous", "Burning", "Strong"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 258,
@@ -2378,7 +2372,6 @@ export const pokemonDatabase = [
     description:
       "The fin on Mudkip's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
     personality: ["Sensitive", "Radar", "Sensing", "Aware"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 259,
@@ -2387,7 +2380,6 @@ export const pokemonDatabase = [
     description:
       "The surface of Marshtomp's body is enveloped by a thin, sticky film that enables it to live on land. This Pokémon plays in mud on beaches when the ocean tide is low.",
     personality: ["Sticky", "Film", "Land", "Mud"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 260,
@@ -2396,7 +2388,6 @@ export const pokemonDatabase = [
     description:
       "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water.",
     personality: ["Strong", "Dragging", "Boulder", "Vision"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 261,
@@ -2405,7 +2396,6 @@ export const pokemonDatabase = [
     description:
       "At first sight, Poochyena takes a bite at anything that moves. This Pokémon chases after prey until the victim becomes exhausted.",
     personality: ["Biting", "Chasing", "Prey", "Persistent"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 262,
@@ -2414,7 +2404,6 @@ export const pokemonDatabase = [
     description:
       "Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body.",
     personality: ["Signals", "Growling", "Flattening", "Attacking"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 263,
@@ -2423,7 +2412,6 @@ export const pokemonDatabase = [
     description:
       "Zigzagoon restlessly wanders everywhere at all times. This Pokémon does so because it is very curious.",
     personality: ["Restless", "Wandering", "Curious", "Exploring"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 264,
@@ -2432,7 +2420,6 @@ export const pokemonDatabase = [
     description:
       "When hunting, Linoone will make a beeline straight for the prey at a full run. While this Pokémon is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
     personality: ["Hunting", "Beeline", "Fast", "Straight"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 265,
@@ -2441,7 +2428,6 @@ export const pokemonDatabase = [
     description:
       "Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out.",
     personality: ["Spikes", "Peeling", "Feeding", "Sap"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 266,
@@ -2450,7 +2436,6 @@ export const pokemonDatabase = [
     description:
       "Silcoon tethers itself to a tree branch using silk to keep from falling. There, this Pokémon hangs quietly while it awaits evolution.",
     personality: ["Tethering", "Silk", "Hanging", "Awaiting"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 267,
@@ -2459,7 +2444,6 @@ export const pokemonDatabase = [
     description:
       "Beautifly's favorite food is the sweet pollen of flowers. If you want to see this Pokémon, just leave a potted flower by an open window.",
     personality: ["Sweet", "Pollen", "Flowers", "Beautiful"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 268,
@@ -2468,7 +2452,6 @@ export const pokemonDatabase = [
     description:
       "Cascoon makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth.",
     personality: ["Protective", "Cocoon", "Wrapping", "Silk"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 269,
@@ -2477,7 +2460,6 @@ export const pokemonDatabase = [
     description:
       "Dustox is instinctively drawn to light. Swarms of this Pokémon are attracted by the bright lights of cities.",
     personality: ["Light", "Swarms", "Attracted", "Cities"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 270,
@@ -2486,7 +2468,6 @@ export const pokemonDatabase = [
     description:
       "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies.",
     personality: ["Floating", "Surface", "Broad", "Weak"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 271,
@@ -2495,7 +2476,6 @@ export const pokemonDatabase = [
     description:
       "Lombre is nocturnal—it will get active after dusk. When it spots humans or other Pokémon, it immediately hides under the water.",
     personality: ["Nocturnal", "Active", "Hiding", "Dusk"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 272,
@@ -2504,7 +2484,6 @@ export const pokemonDatabase = [
     description:
       "Ludicolo begins dancing as soon as it hears cheerful, festive music. This Pokémon is said to appear when it hears the singing of children on hiking outings.",
     personality: ["Dancing", "Cheerful", "Festive", "Children"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 273,
@@ -2513,7 +2492,6 @@ export const pokemonDatabase = [
     description:
       "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch.",
     personality: ["Attaching", "Sucking", "Moisture", "Hanging"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 274,
@@ -2522,7 +2500,6 @@ export const pokemonDatabase = [
     description:
       "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people.",
     personality: ["Dense", "Overgrown", "Startling", "Forest"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 275,
@@ -2531,7 +2508,6 @@ export const pokemonDatabase = [
     description:
       "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years.",
     personality: ["Mysterious", "Towering", "Ancient", "Trees"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 276,
@@ -2540,7 +2516,6 @@ export const pokemonDatabase = [
     description:
       "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokémon will remain defiant even after a loss.",
     personality: ["Courageous", "Ground", "Gutsy", "Defiant"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 277,
@@ -2549,7 +2524,6 @@ export const pokemonDatabase = [
     description:
       "Swellow flies high above our heads, making graceful arcs in the sky. This Pokémon dives at a steep angle as soon as it spots its prey.",
     personality: ["High", "Graceful", "Arcs", "Diving"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 278,
@@ -2558,7 +2532,6 @@ export const pokemonDatabase = [
     description:
       "Wingull has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations.",
     personality: ["Carrying", "Valuables", "Hiding", "Locations"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 279,
@@ -2567,7 +2540,6 @@ export const pokemonDatabase = [
     description:
       "Pelipper is a flying transporter that carries small Pokémon and eggs inside its massive bill.",
     personality: ["Flying", "Transporter", "Carrying", "Massive"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 280,
@@ -2576,7 +2548,6 @@ export const pokemonDatabase = [
     description:
       "Ralts senses the emotions of people using the horns on its head. This Pokémon rarely appears before people.",
     personality: ["Sensing", "Emotions", "Horns", "Rare"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 281,
@@ -2585,7 +2556,6 @@ export const pokemonDatabase = [
     description:
       "It is said that a Kirlia that is exposed to the positive emotions of its Trainer grows beautiful.",
     personality: ["Positive", "Emotions", "Beautiful", "Growing"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 282,
@@ -2594,7 +2564,6 @@ export const pokemonDatabase = [
     description:
       "Gardevoir has the ability to read the future. If it senses impending danger to its Trainer, this Pokémon is said to unleash its psychokinetic energy at full power.",
     personality: ["Future", "Danger", "Psychokinetic", "Protective"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 283,
@@ -2603,7 +2572,6 @@ export const pokemonDatabase = [
     description:
       "From the tips of its feet, Surskit secretes an oil that enables it to walk on water. This Pokémon feeds on microscopic organisms in ponds and lakes.",
     personality: ["Oil", "Walking", "Water", "Microscopic"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 284,
@@ -2612,7 +2580,6 @@ export const pokemonDatabase = [
     description:
       "Masquerain intimidates enemies with the eyelike patterns on its antennas. This Pokémon flaps its four wings to freely fly in any direction.",
     personality: ["Intimidating", "Eyelike", "Patterns", "Freely"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 285,
@@ -2621,7 +2588,6 @@ export const pokemonDatabase = [
     description:
       "Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves.",
     personality: ["Damp", "Dark", "Still", "Leaves"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 286,
@@ -2630,7 +2596,6 @@ export const pokemonDatabase = [
     description:
       "Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms.",
     personality: ["Light", "Sprightly", "Punches", "Stretchy"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 287,
@@ -2639,7 +2604,6 @@ export const pokemonDatabase = [
     description:
       "Slakoth lolls around for over 20 hours every day. Because it moves so little, it does not need much food.",
     personality: ["Lolling", "Lazy", "Little", "Food"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 288,
@@ -2648,7 +2612,6 @@ export const pokemonDatabase = [
     description:
       "Vigoroth is always restless and can never stay still. Even when it tries to sleep, the blood in its veins grows agitated.",
     personality: ["Restless", "Never", "Still", "Agitated"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 289,
@@ -2657,7 +2620,6 @@ export const pokemonDatabase = [
     description:
       "Slaking spends all day lying down and lolling about. It eats grass growing within its reach.",
     personality: ["Lying", "Lolling", "Grass", "Reach"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 290,
@@ -2666,7 +2628,6 @@ export const pokemonDatabase = [
     description:
       "Nincada lives underground for many years in complete darkness. This Pokémon absorbs nutrients from the roots of trees.",
     personality: ["Underground", "Darkness", "Absorbing", "Roots"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 291,
@@ -2675,7 +2636,6 @@ export const pokemonDatabase = [
     description:
       "Ninjask moves around at such a high speed that it cannot be seen, even while crying. It is said to be so fast that its cry is like a whisper.",
     personality: ["High", "Speed", "Invisible", "Whisper"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 292,
@@ -2684,7 +2644,6 @@ export const pokemonDatabase = [
     description:
       "Shedinja's hard body doesn't move—not even a twitch. In fact, its body appears to be merely a hollow shell.",
     personality: ["Hard", "Motionless", "Hollow", "Shell"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 293,
@@ -2693,7 +2652,6 @@ export const pokemonDatabase = [
     description:
       "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder.",
     personality: ["Timid", "Crying", "Startled", "Harder"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 294,
@@ -2702,7 +2660,6 @@ export const pokemonDatabase = [
     description:
       "Loudred's bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes.",
     personality: ["Bellowing", "Decimate", "Voice", "Punish"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 295,
@@ -2711,7 +2668,6 @@ export const pokemonDatabase = [
     description:
       "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it's a sign that it is about to let loose a huge bellow.",
     personality: ["Earthquakes", "Tremors", "Violently", "Huge"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 296,
@@ -2720,7 +2676,6 @@ export const pokemonDatabase = [
     description:
       "Makuhita is tenacious—it will keep getting up and attacking its foe however many times it is knocked down.",
     personality: ["Tenacious", "Getting", "Attacking", "Knocked"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 297,
@@ -2729,7 +2684,6 @@ export const pokemonDatabase = [
     description:
       "Hariyama practices its straight-arm slaps in any number of locations. One hit of this Pokémon's powerful, openhanded, straight-arm punch could snap a telephone pole in two.",
     personality: ["Practices", "Slaps", "Powerful", "Punch"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 298,
@@ -2738,7 +2692,6 @@ export const pokemonDatabase = [
     description:
       "Azurill spins its tail as if it were a lasso, then hurls its body far. The momentum of the throw sends its body flying.",
     personality: ["Spinning", "Lasso", "Hurling", "Flying"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 299,
@@ -2747,7 +2700,6 @@ export const pokemonDatabase = [
     description:
       "Nosepass's magnetic nose is always pointed to the north. If two of these Pokémon meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
     personality: ["Magnetic", "North", "Repel", "Faces"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 300,
@@ -2756,7 +2708,6 @@ export const pokemonDatabase = [
     description:
       "Skitty has the habit of becoming fascinated by moving objects and chasing them around. This Pokémon is known to chase its own tail and become dizzy.",
     personality: ["Fascinated", "Moving", "Chasing", "Dizzy"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 301,
@@ -2765,7 +2716,6 @@ export const pokemonDatabase = [
     description:
       "Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace.",
     personality: ["Unfettered", "Pleases", "Pace", "Free"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 302,
@@ -2774,7 +2724,6 @@ export const pokemonDatabase = [
     description:
       "Sableye lead quiet lives deep inside caverns. They are feared, however, because these Pokémon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
     personality: ["Quiet", "Caverns", "Feared", "Sinister"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 303,
@@ -2783,7 +2732,6 @@ export const pokemonDatabase = [
     description:
       "Mawile's huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down their guard.",
     personality: ["Huge", "Steel", "Docile", "Guard"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 304,
@@ -2792,7 +2740,6 @@ export const pokemonDatabase = [
     description:
       "This Pokémon has a body of steel. To make its body, Aron feeds on iron ore that it digs from mountains.",
     personality: ["Steel", "Feeds", "Iron", "Mountains"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 305,
@@ -2801,7 +2748,6 @@ export const pokemonDatabase = [
     description:
       "When two Lairon meet in the wild, they fight for territory by bashing into each other with their steel bodies.",
     personality: ["Fight", "Territory", "Bashing", "Steel"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 306,
@@ -2810,7 +2756,6 @@ export const pokemonDatabase = [
     description:
       "Aggron claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment.",
     personality: ["Claims", "Mountain", "Territory", "Merciless"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 307,
@@ -2819,7 +2764,6 @@ export const pokemonDatabase = [
     description:
       "Meditite undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this Pokémon always loses its concentration and focus.",
     personality: ["Rigorous", "Mental", "Meditation", "Focus"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 308,
@@ -2828,7 +2772,6 @@ export const pokemonDatabase = [
     description:
       "It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense.",
     personality: ["Meditation", "Heightens", "Energy", "Sixth"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 309,
@@ -2837,7 +2780,6 @@ export const pokemonDatabase = [
     description:
       "Electrike stores electricity in its long body hair. This Pokémon stimulates its leg muscles with electric charges.",
     personality: ["Stores", "Hair", "Stimulates", "Charges"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 310,
@@ -2846,7 +2788,6 @@ export const pokemonDatabase = [
     description:
       "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires.",
     personality: ["Discharging", "Mane", "Sparks", "Fires"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 311,
@@ -2855,7 +2796,6 @@ export const pokemonDatabase = [
     description:
       "Plusle always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this Pokémon shorts out its body to create celebratory sparks.",
     personality: ["Cheerleader", "Partners", "Effort", "Celebratory"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 312,
@@ -2864,7 +2804,6 @@ export const pokemonDatabase = [
     description:
       "Minun is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
     personality: ["Concerned", "Cheering", "Safety", "Brilliant"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 313,
@@ -2873,7 +2812,6 @@ export const pokemonDatabase = [
     description:
       "With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of this light.",
     personality: ["Night", "Light", "Communicates", "Flashing"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 314,
@@ -2882,7 +2820,6 @@ export const pokemonDatabase = [
     description:
       "Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
     personality: ["Attracts", "Swarm", "Fragrance", "Geometric"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 315,
@@ -2891,7 +2828,6 @@ export const pokemonDatabase = [
     description:
       "Roselia shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms.",
     personality: ["Shoots", "Sharp", "Thorns", "Flowers"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 316,
@@ -2900,7 +2836,6 @@ export const pokemonDatabase = [
     description:
       "Virtually all of Gulpin's body is its stomach. As a result, it can swallow something its own size.",
     personality: ["Stomach", "Swallow", "Size", "Virtual"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 317,
@@ -2909,7 +2844,6 @@ export const pokemonDatabase = [
     description:
       "When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target.",
     personality: ["Spots", "Spurts", "Toxic", "Sprays"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 318,
@@ -2918,7 +2852,6 @@ export const pokemonDatabase = [
     description:
       "Carvanha's strongly developed jaws and its sharply pointed fangs pack the destructive power to tear out boat hulls.",
     personality: ["Developed", "Jaws", "Pointed", "Destructive"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 319,
@@ -2927,7 +2860,6 @@ export const pokemonDatabase = [
     description:
       "Nicknamed the bully of the sea, Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off.",
     personality: ["Bully", "Sea", "Feared", "Cruel"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 320,
@@ -2936,7 +2868,6 @@ export const pokemonDatabase = [
     description:
       "Wailmer's nostrils are located above its eyes. This playful Pokémon loves to startle people by forcefully snorting out seawater.",
     personality: ["Nostrils", "Playful", "Startle", "Snorting"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 321,
@@ -2945,7 +2876,6 @@ export const pokemonDatabase = [
     description:
       "Wailord is the largest of all identified Pokémon. This gentle giant can dive to a depth of almost 10,000 feet on only one breath.",
     personality: ["Largest", "Gentle", "Giant", "Dive"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 322,
@@ -2954,7 +2884,6 @@ export const pokemonDatabase = [
     description:
       "Numel is extremely dull witted—it doesn't notice being hit. However, it can't stand hunger for even a second.",
     personality: ["Dull", "Witted", "Hit", "Hunger"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 323,
@@ -2963,7 +2892,6 @@ export const pokemonDatabase = [
     description:
       "Camerupt has a volcano inside its body. Magma of 18,000 degrees Fahrenheit courses through its body.",
     personality: ["Volcano", "Magma", "Hot", "Courses"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 324,
@@ -2972,7 +2900,6 @@ export const pokemonDatabase = [
     description:
       "Torkoal digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it.",
     personality: ["Digs", "Mountains", "Coal", "Burns"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 325,
@@ -2981,7 +2908,6 @@ export const pokemonDatabase = [
     description:
       "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing.",
     personality: ["Bounces", "Shock", "Heart", "Pump"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 326,
@@ -2990,7 +2916,6 @@ export const pokemonDatabase = [
     description:
       "Grumpig uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe.",
     personality: ["Pearls", "Amplify", "Psychic", "Control"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 327,
@@ -2999,7 +2924,6 @@ export const pokemonDatabase = [
     description:
       "All Spinda have absolutely no two with identical spot patterns on their bodies. This Pokémon moves in a wobbly fashion.",
     personality: ["Spot", "Patterns", "Identical", "Wobbly"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 328,
@@ -3008,7 +2932,6 @@ export const pokemonDatabase = [
     description:
       "Trapinch's nest is a sloped, bowl-like pit dug in sand. This Pokémon patiently waits for prey to tumble down the pit.",
     personality: ["Sloped", "Bowl", "Pit", "Waits"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 329,
@@ -3017,7 +2940,6 @@ export const pokemonDatabase = [
     description:
       "To make prey faint, Vibrava generates ultrasonic waves by vigorously making its two wings vibrate.",
     personality: ["Faint", "Ultrasonic", "Waves", "Vibrate"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 330,
@@ -3026,7 +2948,6 @@ export const pokemonDatabase = [
     description:
       "Flygon is nicknamed the mystical Pokémon of the desert. Because its flapping wings whip up a cloud of sand, this Pokémon is always enveloped in a sandstorm while flying.",
     personality: ["Mystical", "Desert", "Whip", "Sandstorm"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 331,
@@ -3035,7 +2956,6 @@ export const pokemonDatabase = [
     description:
       "Cacnea lives in deserts with virtually no rainfall. It battles by swinging its thick, spiked arms.",
     personality: ["Deserts", "Rainfall", "Thick", "Spiked"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 332,
@@ -3044,7 +2964,6 @@ export const pokemonDatabase = [
     description:
       "During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun.",
     personality: ["Daytime", "Unmoving", "Moisture", "Harsh"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 333,
@@ -3053,7 +2972,6 @@ export const pokemonDatabase = [
     description:
       "Swablu has light and fluffy wings that are like cottony clouds. This Pokémon is not frightened of people.",
     personality: ["Light", "Fluffy", "Cottony", "Clouds"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 334,
@@ -3062,7 +2980,6 @@ export const pokemonDatabase = [
     description:
       "Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pokémon makes its listeners experience dreamy wonderment.",
     personality: ["Dances", "Wheels", "Billowing", "Crystal"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 335,
@@ -3071,7 +2988,6 @@ export const pokemonDatabase = [
     description:
       "Memories of battling its arch-rival Seviper are etched into every cell of Zangoose's body.",
     personality: ["Memories", "Battling", "Arch-rival", "Etched"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 336,
@@ -3080,7 +2996,6 @@ export const pokemonDatabase = [
     description:
       "Seviper shares a generations-long feud with Zangoose. The scars on its body are evidence of vicious battles.",
     personality: ["Generations", "Feud", "Scars", "Vicious"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 337,
@@ -3089,7 +3004,6 @@ export const pokemonDatabase = [
     description:
       "Lunatone was discovered at a location where a meteoroid fell. As a result, some people theorize that this Pokémon came from space.",
     personality: ["Meteoroid", "Fell", "Theorize", "Space"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 338,
@@ -3098,7 +3012,6 @@ export const pokemonDatabase = [
     description:
       "Solrock is a new species of Pokémon that is said to have fallen from space. It floats in air and moves silently.",
     personality: ["New", "Species", "Fallen", "Silently"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 339,
@@ -3107,7 +3020,6 @@ export const pokemonDatabase = [
     description:
       "Barboach's sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed.",
     personality: ["Sensitive", "Whiskers", "Radar", "Mud"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 340,
@@ -3116,7 +3028,6 @@ export const pokemonDatabase = [
     description:
       "Whiscash is extremely territorial. Just one of these Pokémon will claim a large pond as its exclusive territory.",
     personality: ["Territorial", "Claim", "Pond", "Exclusive"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 341,
@@ -3125,7 +3036,6 @@ export const pokemonDatabase = [
     description:
       "Corphish were originally foreign Pokémon that were imported as pets. They eventually turned up in the wild.",
     personality: ["Foreign", "Imported", "Pets", "Wild"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 342,
@@ -3134,7 +3044,6 @@ export const pokemonDatabase = [
     description:
       "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle.",
     personality: ["Violent", "Nature", "Challenge", "Battle"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 343,
@@ -3143,7 +3052,6 @@ export const pokemonDatabase = [
     description:
       "Baltoy moves while spinning around on its one foot. Primitive wall paintings depicting this Pokémon living among people were discovered in some ancient ruins.",
     personality: ["Spinning", "Foot", "Primitive", "Ancient"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 344,
@@ -3152,7 +3060,6 @@ export const pokemonDatabase = [
     description:
       "Claydol are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray.",
     personality: ["Dolls", "Mud", "Primitive", "Mysterious"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 345,
@@ -3161,7 +3068,6 @@ export const pokemonDatabase = [
     description:
       "Lileep became extinct approximately a hundred million years ago. This ancient Pokémon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
     personality: ["Extinct", "Ancient", "Attaches", "Tentacles"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 346,
@@ -3170,7 +3076,6 @@ export const pokemonDatabase = [
     description:
       "Cradily roams around the ocean floor in search of food. This Pokémon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
     personality: ["Roams", "Ocean", "Extends", "Captures"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 347,
@@ -3179,7 +3084,6 @@ export const pokemonDatabase = [
     description:
       "Anorith was regenerated from a fossil. This primitive Pokémon once lived in warm seas. It grips its prey firmly between its two large claws.",
     personality: ["Regenerated", "Fossil", "Primitive", "Grips"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 348,
@@ -3188,7 +3092,6 @@ export const pokemonDatabase = [
     description:
       "Armaldo's tough armor makes all attacks bounce off. This Pokémon's two enormous claws can be freely extended or contracted.",
     personality: ["Tough", "Armor", "Bounce", "Enormous"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 349,
@@ -3197,7 +3100,6 @@ export const pokemonDatabase = [
     description:
       "Feebas's fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored.",
     personality: ["Ragged", "Tattered", "Shoddy", "Ignored"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 350,
@@ -3206,7 +3108,6 @@ export const pokemonDatabase = [
     description:
       "Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
     personality: ["Beautiful", "Becalm", "Emotions", "Quell"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 351,
@@ -3215,7 +3116,6 @@ export const pokemonDatabase = [
     description:
       "Castform's appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body.",
     personality: ["Appearance", "Weather", "Nature", "Protect"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 352,
@@ -3224,7 +3124,6 @@ export const pokemonDatabase = [
     description:
       "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception—this Pokémon can't change the zigzag pattern on its belly.",
     personality: ["Changing", "Colors", "Blend", "Exception"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 353,
@@ -3233,7 +3132,6 @@ export const pokemonDatabase = [
     description:
       "Shuppet is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this Pokémon will appear in a swarm and line up beneath the eaves of that person's home.",
     personality: ["Jealousy", "Vindictive", "Vengeance", "Swarm"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 354,
@@ -3242,7 +3140,6 @@ export const pokemonDatabase = [
     description:
       "Banette generates energy for laying strong curses by sticking pins into its own body. This Pokémon was originally a pitiful plush doll that was thrown away.",
     personality: ["Curses", "Pins", "Pitiful", "Thrown"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 355,
@@ -3251,7 +3148,6 @@ export const pokemonDatabase = [
     description:
       "Duskull can pass through any wall no matter how thick it may be. Once this Pokémon chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
     personality: ["Pass", "Wall", "Chooses", "Doggedly"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 356,
@@ -3260,7 +3156,6 @@ export const pokemonDatabase = [
     description:
       "Dusclops's body is completely hollow—there is nothing at all inside. It is said that its body is like a black hole.",
     personality: ["Hollow", "Nothing", "Black", "Hole"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 357,
@@ -3269,7 +3164,6 @@ export const pokemonDatabase = [
     description:
       "The bunches of fruit around Tropius's neck are very popular with children. This Pokémon loves fruit, and eats it continuously.",
     personality: ["Bunches", "Fruit", "Popular", "Continuously"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 358,
@@ -3278,7 +3172,6 @@ export const pokemonDatabase = [
     description:
       "Chimecho makes its cries echo inside its hollow body. When this Pokémon becomes enraged, its cries result in ultrasonic waves that have the power to knock down concrete buildings.",
     personality: ["Echo", "Hollow", "Enraged", "Ultrasonic"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 359,
@@ -3287,7 +3180,6 @@ export const pokemonDatabase = [
     description:
       "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pokémon.",
     personality: ["Disaster", "Earthquake", "Tidal", "Known"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 360,
@@ -3296,7 +3188,6 @@ export const pokemonDatabase = [
     description:
       "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, the intensity of its tail's wiggling increases.",
     personality: ["Happy", "Smile", "Tail", "Wiggling"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 361,
@@ -3545,7 +3436,6 @@ export const pokemonDatabase = [
     description:
       "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
     personality: ["Soil", "Shell", "Hardens", "Lakes"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 388,
@@ -3554,7 +3444,6 @@ export const pokemonDatabase = [
     description:
       "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
     personality: ["Pure", "Water", "Wells", "Carries"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 389,
@@ -3563,7 +3452,6 @@ export const pokemonDatabase = [
     description:
       "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
     personality: ["Small", "Gather", "Unmoving", "Nests"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 390,
@@ -3572,7 +3460,6 @@ export const pokemonDatabase = [
     description:
       "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
     personality: ["Agilely", "Scales", "Cliffs", "Craggy"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 391,
@@ -3581,7 +3468,6 @@ export const pokemonDatabase = [
     description:
       "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
     personality: ["Ceilings", "Walls", "Aerial", "Weapon"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 392,
@@ -3590,7 +3476,6 @@ export const pokemonDatabase = [
     description:
       "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
     personality: ["Martial", "Arts", "Limbs", "Never"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 393,
@@ -3599,7 +3484,6 @@ export const pokemonDatabase = [
     description:
       "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
     personality: ["Proud", "Hates", "Accepting", "Thick"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 394,
@@ -3608,7 +3492,6 @@ export const pokemonDatabase = [
     description:
       "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
     personality: ["Alone", "Away", "Believes", "Important"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 395,
@@ -3617,7 +3500,6 @@ export const pokemonDatabase = [
     description:
       "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
     personality: ["Three", "Horns", "Attest", "Leader"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 396,
@@ -3626,7 +3508,6 @@ export const pokemonDatabase = [
     description:
       "They flock in great numbers. Though small, they flap their wings with great power.",
     personality: ["Flock", "Numbers", "Small", "Power"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 397,
@@ -3635,7 +3516,6 @@ export const pokemonDatabase = [
     description:
       "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
     personality: ["Flies", "Forests", "Search", "Flock"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 398,
@@ -3644,7 +3524,6 @@ export const pokemonDatabase = [
     description:
       "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
     personality: ["Evolve", "Leave", "Alone", "Sturdy"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 399,
@@ -3653,7 +3532,6 @@ export const pokemonDatabase = [
     description:
       "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
     personality: ["Nerves", "Steel", "Perturb", "Agile"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 400,
@@ -3662,7 +3540,6 @@ export const pokemonDatabase = [
     description:
       "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
     personality: ["Nest", "Damming", "Bark", "Industrious"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 401,
@@ -3671,7 +3548,6 @@ export const pokemonDatabase = [
     description:
       "It shakes its head back to front and causes its antennae to hit each other and sound.",
     personality: ["Shakes", "Antennae", "Hit", "Sound"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 402,
@@ -3680,7 +3556,6 @@ export const pokemonDatabase = [
     description:
       "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
     personality: ["Signals", "Emotions", "Melodies", "Scientists"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 403,
@@ -3689,7 +3564,6 @@ export const pokemonDatabase = [
     description:
       "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
     personality: ["Fur", "Dazzles", "Danger", "Flees"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 404,
@@ -3698,7 +3572,6 @@ export const pokemonDatabase = [
     description:
       "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
     personality: ["Claws", "Electricity", "Amperage", "Groups"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 405,
@@ -3707,7 +3580,6 @@ export const pokemonDatabase = [
     description:
       "It can see clearly through walls to track down its prey and seek its lost young.",
     personality: ["See", "Walls", "Track", "Young"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 406,
@@ -3716,7 +3588,6 @@ export const pokemonDatabase = [
     description:
       "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
     personality: ["Winter", "Closes", "Endures", "Spring"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 407,
@@ -3725,7 +3596,6 @@ export const pokemonDatabase = [
     description:
       "It attacks with bladed arms to slice its foes. It is very vain about its appearance.",
     personality: ["Attacks", "Bladed", "Slice", "Vain"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 408,
@@ -3734,7 +3604,6 @@ export const pokemonDatabase = [
     description:
       "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
     personality: ["Jungles", "Million", "Skull", "Iron"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 409,
@@ -3743,7 +3612,6 @@ export const pokemonDatabase = [
     description:
       "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
     personality: ["Powerful", "Butt", "Shatter", "Impact"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 410,
@@ -3752,7 +3620,6 @@ export const pokemonDatabase = [
     description:
       "A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
     personality: ["Lived", "Jungles", "Facial", "Hard"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 411,
@@ -3761,7 +3628,6 @@ export const pokemonDatabase = [
     description:
       "When they lined up side by side, no foe could break through. They shielded their young in that way.",
     personality: ["Lined", "Side", "Break", "Shielded"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 412,
@@ -3770,7 +3636,6 @@ export const pokemonDatabase = [
     description:
       "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
     personality: ["Shelter", "Wintry", "Cloak", "Twigs"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 413,
@@ -3779,7 +3644,6 @@ export const pokemonDatabase = [
     description:
       "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
     personality: ["Evolved", "Cloak", "Body", "Shed"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 414,
@@ -3788,7 +3652,6 @@ export const pokemonDatabase = [
     description:
       "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
     personality: ["Honey", "Flowers", "Locate", "Pollen"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 415,
@@ -3797,7 +3660,6 @@ export const pokemonDatabase = [
     description:
       "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
     personality: ["Trio", "Birth", "Gathers", "Please"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 416,
@@ -3806,7 +3668,6 @@ export const pokemonDatabase = [
     description:
       "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
     personality: ["Abdomen", "Honeycomb", "Grubs", "Raises"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 417,
@@ -3815,7 +3676,6 @@ export const pokemonDatabase = [
     description:
       "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
     personality: ["Fur", "Balls", "Crackle", "Stores"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 418,
@@ -3824,7 +3684,6 @@ export const pokemonDatabase = [
     description:
       "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
     personality: ["Flotation", "Inflatable", "Collar", "Floats"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 419,
@@ -3833,7 +3692,6 @@ export const pokemonDatabase = [
     description:
       "It floats using its well-developed flotation sac. It assists in the rescues of drowning people.",
     personality: ["Floats", "Developed", "Assists", "Rescues"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 420,
@@ -3842,7 +3700,6 @@ export const pokemonDatabase = [
     description:
       "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
     personality: ["Small", "Ball", "Nutrients", "Sweet"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 421,
@@ -3851,7 +3708,6 @@ export const pokemonDatabase = [
     description:
       "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
     personality: ["Blooms", "Sunlight", "Make", "Endured"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 422,
@@ -3860,7 +3716,6 @@ export const pokemonDatabase = [
     description:
       "Its color and shapes differ from region to region. In the Sinnoh region, two types are confirmed.",
     personality: ["Color", "Shapes", "Region", "Types"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 423,
@@ -3869,7 +3724,6 @@ export const pokemonDatabase = [
     description:
       "It has a pliable body without any bones. If any part of its body is torn off, it grows back.",
     personality: ["Pliable", "Bones", "Torn", "Grows"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 424,
@@ -3878,7 +3732,6 @@ export const pokemonDatabase = [
     description:
       "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
     personality: ["Eat", "Deftly", "Shucks", "Rarely"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 425,
@@ -3887,7 +3740,6 @@ export const pokemonDatabase = [
     description:
       "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
     personality: ["Formed", "Spirits", "Loves", "Humid"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 426,
@@ -3896,7 +3748,6 @@ export const pokemonDatabase = [
     description:
       "It's drowsy in daytime, but flies off in the evening in big groups. No one knows where they go.",
     personality: ["Drowsy", "Daytime", "Evening", "Groups"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 427,
@@ -3905,7 +3756,6 @@ export const pokemonDatabase = [
     description:
       "Its ears are always rolled up. They can be forcefully extended to carry out attacks.",
     personality: ["Ears", "Rolled", "Extended", "Attacks"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 428,
@@ -3914,7 +3764,6 @@ export const pokemonDatabase = [
     description:
       "An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger.",
     personality: ["Cautious", "Cloaks", "Fluffy", "Senses"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 429,
@@ -3923,7 +3772,6 @@ export const pokemonDatabase = [
     description:
       "Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.",
     personality: ["Cries", "Incantations", "Tormented", "Hallucinations"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 430,
@@ -3932,7 +3780,6 @@ export const pokemonDatabase = [
     description:
       "Becoming active at night, it is known to swarm with numerous Murkrow in tow.",
     personality: ["Active", "Night", "Swarm", "Numerous"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 431,
@@ -3941,7 +3788,6 @@ export const pokemonDatabase = [
     description:
       "It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn't fed.",
     personality: ["Spiteful", "Hooking", "Claws", "Fed"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 432,
@@ -3950,7 +3796,6 @@ export const pokemonDatabase = [
     description:
       "It is a brazen brute that barges its way into another Pokémon's nest and claims it as its own.",
     personality: ["Brazen", "Brute", "Barges", "Claims"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 433,
@@ -3959,7 +3804,6 @@ export const pokemonDatabase = [
     description:
       "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.",
     personality: ["Emits", "Agitating", "Orb", "Flouncing"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 434,
@@ -3968,7 +3812,6 @@ export const pokemonDatabase = [
     description:
       "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
     personality: ["Protects", "Spraying", "Noxious", "Stench"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 435,
@@ -3977,7 +3820,6 @@ export const pokemonDatabase = [
     description:
       "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
     personality: ["Sprays", "Vile", "Fluid", "Range"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 436,
@@ -3986,7 +3828,6 @@ export const pokemonDatabase = [
     description:
       "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
     personality: ["Ancient", "Pattern", "Mysterious", "Power"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 437,
@@ -3995,7 +3836,6 @@ export const pokemonDatabase = [
     description:
       "One caused a news sensation when it was dug up at a construction site after a 2,000-year sleep.",
     personality: ["News", "Sensation", "Dug", "Sleep"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 438,
@@ -4004,7 +3844,6 @@ export const pokemonDatabase = [
     description:
       "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
     personality: ["Prefers", "Arid", "Leaks", "Adjust"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 439,
@@ -4013,7 +3852,6 @@ export const pokemonDatabase = [
     description:
       "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
     personality: ["Habitually", "Mimics", "Mimicked", "Eyes"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 440,
@@ -4022,7 +3860,6 @@ export const pokemonDatabase = [
     description:
       "It loves round white things. It carries an egg-shaped rock in imitation of Chansey.",
     personality: ["Loves", "Round", "White", "Imitation"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 441,
@@ -4031,7 +3868,6 @@ export const pokemonDatabase = [
     description:
       "It can learn and speak human words. If they gather, they all learn the same saying.",
     personality: ["Learn", "Speak", "Words", "Gather"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 442,
@@ -4040,7 +3876,6 @@ export const pokemonDatabase = [
     description:
       "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
     personality: ["Formed", "Spirits", "Bound", "Keystone"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 443,
@@ -4049,7 +3884,6 @@ export const pokemonDatabase = [
     description:
       "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
     personality: ["Nests", "Horizontal", "Holes", "Pounces"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 444,
@@ -4058,7 +3892,6 @@ export const pokemonDatabase = [
     description:
       "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
     personality: ["Long-held", "Medicine", "Scales", "Heal"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 445,
@@ -4067,7 +3900,6 @@ export const pokemonDatabase = [
     description:
       "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
     personality: ["Folds", "Extends", "Jet", "Sonic"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 446,
@@ -4076,7 +3908,6 @@ export const pokemonDatabase = [
     description:
       "It will eat anything, swallowing food without chewing. It never gets an upset stomach.",
     personality: ["Eat", "Anything", "Swallowing", "Stomach"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 447,
@@ -4085,7 +3916,6 @@ export const pokemonDatabase = [
     description:
       "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
     personality: ["Aura", "Emanates", "Intensifies", "Alert"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 448,
@@ -4103,7 +3933,6 @@ export const pokemonDatabase = [
     description:
       "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
     personality: ["Arid", "Perspiration", "Expels", "Sand"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 450,
@@ -4112,7 +3941,6 @@ export const pokemonDatabase = [
     description:
       "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
     personality: ["Blasts", "Stored", "Ports", "Twister"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 451,
@@ -4121,7 +3949,6 @@ export const pokemonDatabase = [
     description:
       "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
     personality: ["Grips", "Claws", "Injects", "Tenaciously"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 452,
@@ -4130,7 +3957,6 @@ export const pokemonDatabase = [
     description:
       "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
     personality: ["Power", "Clawed", "Scrap", "Tips"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 453,
@@ -4139,7 +3965,6 @@ export const pokemonDatabase = [
     description:
       "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
     personality: ["Cheeks", "Poison", "Guard", "Toxic"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 454,
@@ -4148,7 +3973,6 @@ export const pokemonDatabase = [
     description:
       "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
     personality: ["Knuckle", "Secrete", "Vile", "Fatal"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 455,
@@ -4157,7 +3981,6 @@ export const pokemonDatabase = [
     description:
       "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool.",
     personality: ["Binds", "Trees", "Attracts", "Sweet"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 456,
@@ -4166,7 +3989,6 @@ export const pokemonDatabase = [
     description:
       "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
     personality: ["Exposure", "Sunlight", "Patterns", "Darkness"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 457,
@@ -4175,7 +3997,6 @@ export const pokemonDatabase = [
     description:
       "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
     personality: ["Deep-sea", "Floor", "Flashing", "Patterns"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 458,
@@ -4184,7 +4005,6 @@ export const pokemonDatabase = [
     description:
       "A friendly Pokémon that captures the subtle flows of seawater using its two antennae.",
     personality: ["Friendly", "Captures", "Subtle", "Antennae"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 459,
@@ -4193,7 +4013,6 @@ export const pokemonDatabase = [
     description:
       "In the spring, it grows berries with the texture of frozen treats that make perfect gifts.",
     personality: ["Spring", "Berries", "Frozen", "Gifts"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 460,
@@ -4202,7 +4021,6 @@ export const pokemonDatabase = [
     description:
       "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
     personality: ["Whips", "Blizzards", "Buried", "Abominable"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 461,
@@ -4583,7 +4401,6 @@ export const pokemonDatabase = [
     description:
       "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
     personality: ["Photosynthesize", "Bathing", "Sunlight", "Droop"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 496,
@@ -4592,7 +4409,6 @@ export const pokemonDatabase = [
     description:
       "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
     personality: ["Sliding", "Swift", "Befuddle", "Whip"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 497,
@@ -4601,7 +4417,6 @@ export const pokemonDatabase = [
     description:
       "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally.",
     personality: ["Stop", "Glare", "Solar", "Boosts"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 498,
@@ -4610,7 +4425,6 @@ export const pokemonDatabase = [
     description:
       "It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
     personality: ["Deftly", "Dodge", "Fireballs", "Roasts"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 499,
@@ -4619,7 +4433,6 @@ export const pokemonDatabase = [
     description:
       "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
     personality: ["Internal", "Flares", "Sharper", "Smoke"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 500,
@@ -4628,7 +4441,6 @@ export const pokemonDatabase = [
     description:
       "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
     personality: ["Throw", "Punch", "Fists", "Cares"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 501,
@@ -4637,7 +4449,6 @@ export const pokemonDatabase = [
     description:
       "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
     personality: ["Fights", "Scalchop", "Retaliates", "Slashing"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 502,
@@ -4646,7 +4457,6 @@ export const pokemonDatabase = [
     description:
       "Strict training is how it learns its flowing double-scalchop technique.",
     personality: ["Strict", "Training", "Flowing", "Double"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 503,
@@ -4655,7 +4465,6 @@ export const pokemonDatabase = [
     description:
       "One swing of the sword incorporated in its armor can fell a tree. It fights using swords all over its body.",
     personality: ["Sword", "Armor", "Fell", "Fights"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 504,
@@ -4664,7 +4473,6 @@ export const pokemonDatabase = [
     description:
       "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
     personality: ["Stored", "Watch", "Days", "Communicate"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 505,
@@ -4673,7 +4481,6 @@ export const pokemonDatabase = [
     description:
       "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
     personality: ["Enemy", "Tails", "Spit", "Seeds"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 506,
@@ -4682,7 +4489,6 @@ export const pokemonDatabase = [
     description:
       "It faces strong opponents with great courage. But, when at a disadvantage in battle, this intelligent Pokémon flees.",
     personality: ["Courage", "Strong", "Intelligent", "Flees"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 507,
@@ -4691,7 +4497,6 @@ export const pokemonDatabase = [
     description:
       "It loyally follows its Trainer's orders. For ages, they have helped Trainers raise Pokémon.",
     personality: ["Loyally", "Orders", "Ages", "Helped"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 508,
@@ -4700,7 +4505,6 @@ export const pokemonDatabase = [
     description:
       "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
     personality: ["Rescues", "Stranded", "Shaggy", "Shields"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 509,
@@ -4709,7 +4513,6 @@ export const pokemonDatabase = [
     description:
       "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.",
     personality: ["Steal", "Fun", "Forgive", "Deceptive"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 510,
@@ -4718,7 +4521,6 @@ export const pokemonDatabase = [
     description:
       "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
     personality: ["Vanish", "Unexpectedly", "Beautiful", "Drawn"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 511,
@@ -4727,7 +4529,6 @@ export const pokemonDatabase = [
     description:
       "This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away.",
     personality: ["Dwells", "Deep", "Leaf", "Weariness"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 512,
@@ -4736,7 +4537,6 @@ export const pokemonDatabase = [
     description:
       "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
     personality: ["Ill", "Tempered", "Barbed", "Bitter"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 513,
@@ -4745,7 +4545,6 @@ export const pokemonDatabase = [
     description:
       "When it is angered, the temperature of its head tuft reaches 600° F. It uses its tuft to roast berries.",
     personality: ["Angered", "Temperature", "Tuft", "Roast"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 514,
@@ -4754,7 +4553,6 @@ export const pokemonDatabase = [
     description:
       "When angered, it spouts brilliant fire from its head and tail. It loves sweet food.",
     personality: ["Angered", "Spouts", "Brilliant", "Sweet"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 515,
@@ -4763,7 +4561,6 @@ export const pokemonDatabase = [
     description:
       "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
     personality: ["Stored", "Tuft", "Nutrients", "Large"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 516,
@@ -4772,7 +4569,6 @@ export const pokemonDatabase = [
     description:
       "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.",
     personality: ["Tuft", "Holds", "Replenishes", "Siphoning"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 517,
@@ -4781,7 +4577,6 @@ export const pokemonDatabase = [
     description:
       "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
     personality: ["Float", "Dreams", "Eaten", "Forget"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 518,
@@ -4790,7 +4585,6 @@ export const pokemonDatabase = [
     description:
       "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
     personality: ["Mist", "Emanating", "Packed", "Dreams"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 519,
@@ -4799,7 +4593,6 @@ export const pokemonDatabase = [
     description:
       "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
     personality: ["Follows", "Orders", "Fail", "Complicated"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 520,
@@ -4808,7 +4601,6 @@ export const pokemonDatabase = [
     description:
       "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
     personality: ["Peaceful", "Forest", "No", "War"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 521,
@@ -4817,7 +4609,6 @@ export const pokemonDatabase = [
     description:
       "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
     personality: ["Swing", "Threaten", "Flying", "Surpass"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 522,
@@ -4826,7 +4617,6 @@ export const pokemonDatabase = [
     description:
       "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
     personality: ["Shines", "Discharges", "Frequency", "Communicate"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 523,
@@ -4835,7 +4625,6 @@ export const pokemonDatabase = [
     description:
       "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
     personality: ["Lightning", "Movements", "Speed", "Thunder"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 524,
@@ -4844,7 +4633,6 @@ export const pokemonDatabase = [
     description:
       "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
     personality: ["Hexagonal", "Compressed", "Underground", "Steel"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 525,
@@ -4853,7 +4641,6 @@ export const pokemonDatabase = [
     description:
       "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
     personality: ["Overflows", "Power", "Glows", "Underground"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 526,
@@ -4862,7 +4649,6 @@ export const pokemonDatabase = [
     description:
       "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
     personality: ["Compressing", "Energy", "Fire", "Mountain"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 527,
@@ -4871,7 +4657,6 @@ export const pokemonDatabase = [
     description:
       "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
     personality: ["Dark", "Forests", "Ultrasonic", "Learn"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 528,
@@ -4880,7 +4665,6 @@ export const pokemonDatabase = [
     description:
       "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
     personality: ["Contact", "Ultrasonic", "Courting", "Positive"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 529,
@@ -4889,7 +4673,6 @@ export const pokemonDatabase = [
     description:
       "It can dig through the ground at a speed of 30 mph by spinning its body. It could give a mole a run for its money.",
     personality: ["Dig", "Speed", "Spinning", "Mole"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 530,
@@ -4898,7 +4681,6 @@ export const pokemonDatabase = [
     description:
       "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
     personality: ["Help", "Construction", "Evolved", "Bore"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 531,
@@ -4907,7 +4689,6 @@ export const pokemonDatabase = [
     description:
       "Its hearing is so acute it can hear a pin drop over half a mile away. It lives quietly in the forest.",
     personality: ["Hearing", "Acute", "Pin", "Quietly"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 532,
@@ -4916,7 +4697,6 @@ export const pokemonDatabase = [
     description:
       "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
     personality: ["Fights", "Swinging", "Lumber", "Evolving"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 533,
@@ -4925,7 +4705,6 @@ export const pokemonDatabase = [
     description:
       "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
     personality: ["Muscular", "Strongly", "Wrestlers", "Budge"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 534,
@@ -4934,7 +4713,6 @@ export const pokemonDatabase = [
     description:
       "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
     personality: ["Thought", "Taught", "Concrete", "Years"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 535,
@@ -4943,7 +4721,6 @@ export const pokemonDatabase = [
     description:
       "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
     personality: ["Warn", "Danger", "Vibrating", "High-pitched"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 536,
@@ -4952,7 +4729,6 @@ export const pokemonDatabase = [
     description:
       "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
     personality: ["Vibrate", "Bumps", "Waves", "Earthquake"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 537,
@@ -4961,7 +4737,6 @@ export const pokemonDatabase = [
     description:
       "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
     personality: ["Shoot", "Paralyzing", "Bumps", "Vibration"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 538,
@@ -4970,7 +4745,6 @@ export const pokemonDatabase = [
     description:
       "When they tighten their belts, they become stronger. Wild Throh use vines to weave their own belts.",
     personality: ["Tighten", "Belts", "Stronger", "Vines"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 539,
@@ -4979,7 +4753,6 @@ export const pokemonDatabase = [
     description:
       "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
     personality: ["Tying", "Pumped", "Destructive", "Training"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 540,
@@ -4988,7 +4761,6 @@ export const pokemonDatabase = [
     description:
       "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
     personality: ["Dress", "Clothes", "Hatched", "Hood"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 541,
@@ -4997,7 +4769,6 @@ export const pokemonDatabase = [
     description:
       "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
     personality: ["Protects", "Wrapping", "Move", "Eating"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 542,
@@ -5006,7 +4777,6 @@ export const pokemonDatabase = [
     description:
       "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
     personality: ["Finding", "Weaves", "Clothing", "Sticky"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 543,
@@ -5015,7 +4785,6 @@ export const pokemonDatabase = [
     description:
       "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
     personality: ["Bite", "Injects", "Potent", "Paralyze"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 544,
@@ -5024,7 +4793,6 @@ export const pokemonDatabase = [
     description:
       "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
     personality: ["Protected", "Shell", "Spins", "Crashes"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 545,
@@ -5033,7 +4801,6 @@ export const pokemonDatabase = [
     description:
       "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
     personality: ["Quick", "Chases", "Relentlessly", "Prevails"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 546,
@@ -5042,7 +4809,6 @@ export const pokemonDatabase = [
     description:
       "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy.",
     personality: ["Attacked", "Escapes", "Cotton", "Decoy"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 547,
@@ -5051,7 +4817,6 @@ export const pokemonDatabase = [
     description:
       "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
     personality: ["Wind", "Slip", "Gap", "Fluff"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 548,
@@ -5060,7 +4825,6 @@ export const pokemonDatabase = [
     description:
       "The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body.",
     personality: ["Leaves", "Bitter", "Eating", "Refresh"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 549,
@@ -5069,7 +4833,6 @@ export const pokemonDatabase = [
     description:
       "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
     personality: ["Veteran", "Challenge", "Beautiful", "Popular"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 550,
@@ -5078,7 +4841,6 @@ export const pokemonDatabase = [
     description:
       "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
     personality: ["Violent", "Fighting", "Remarkably", "Tasty"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 551,
@@ -5087,7 +4849,6 @@ export const pokemonDatabase = [
     description:
       "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
     personality: ["Buried", "Sands", "Sun-warmed", "Temperature"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 552,
@@ -5096,7 +4857,6 @@ export const pokemonDatabase = [
     description:
       "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
     personality: ["Groups", "Individuals", "Protective", "Shield"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 553,
@@ -5105,7 +4865,6 @@ export const pokemonDatabase = [
     description:
       "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
     personality: ["Violent", "Clamp", "Moves", "Eyes"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 554,
@@ -5114,7 +4873,6 @@ export const pokemonDatabase = [
     description:
       "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
     personality: ["Internal", "Burning", "Runs", "Diminishes"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 555,
@@ -5123,7 +4881,6 @@ export const pokemonDatabase = [
     description:
       "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch.",
     personality: ["Internal", "Burns", "Power", "Destroy"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 556,
@@ -5132,7 +4889,6 @@ export const pokemonDatabase = [
     description:
       "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
     personality: ["Up-tempo", "Song", "Dance", "Drive"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 557,
@@ -5141,7 +4897,6 @@ export const pokemonDatabase = [
     description:
       "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
     personality: ["Easily", "Melt", "Holes", "Secreted"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 558,
@@ -5150,7 +4905,6 @@ export const pokemonDatabase = [
     description:
       "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
     personality: ["Competing", "Territory", "Viciously", "Boulder"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 559,
@@ -5159,7 +4913,6 @@ export const pokemonDatabase = [
     description:
       "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
     personality: ["Rubbery", "Elasticity", "Reduce", "Defensively"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 560,
@@ -5168,7 +4921,6 @@ export const pokemonDatabase = [
     description:
       "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
     personality: ["Smash", "Concrete", "Kicking", "Leader"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 561,
@@ -5177,7 +4929,6 @@ export const pokemonDatabase = [
     description:
       "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
     personality: ["Guardians", "Ancient", "Psychic", "Invade"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 562,
@@ -5186,7 +4937,6 @@ export const pokemonDatabase = [
     description:
       "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
     personality: ["Carries", "Mask", "Human", "Cry"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 563,
@@ -5195,7 +4945,6 @@ export const pokemonDatabase = [
     description:
       "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
     personality: ["Swallow", "Close", "Mummies", "Gold"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 564,
@@ -5204,7 +4953,6 @@ export const pokemonDatabase = [
     description:
       "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
     personality: ["Restored", "Fossil", "Dive", "Depths"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 565,
@@ -5213,7 +4961,6 @@ export const pokemonDatabase = [
     description:
       "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
     personality: ["Ocean", "Land", "Slap", "Hole"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 566,
@@ -5222,7 +4969,6 @@ export const pokemonDatabase = [
     description:
       "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from branch to branch.",
     personality: ["Ancestor", "Unable", "Fly", "Hopping"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 567,
@@ -5231,7 +4977,6 @@ export const pokemonDatabase = [
     description:
       "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
     personality: ["Intelligent", "Cooperate", "Catch", "Running"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 568,
@@ -5240,7 +4985,6 @@ export const pokemonDatabase = [
     description:
       "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
     personality: ["Inhaling", "Belch", "Sleep", "Unsanitary"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 569,
@@ -5249,7 +4993,6 @@ export const pokemonDatabase = [
     description:
       "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
     personality: ["Clenches", "Left", "Finishes", "Foul-smelling"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 570,
@@ -5258,7 +5001,6 @@ export const pokemonDatabase = [
     description:
       "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
     personality: ["Changes", "Forms", "Surprise", "Silent"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 571,
@@ -5267,7 +5009,6 @@ export const pokemonDatabase = [
     description:
       "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
     personality: ["Bonds", "Strong", "Protects", "Tricking"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 572,
@@ -5276,7 +5017,6 @@ export const pokemonDatabase = [
     description:
       "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
     personality: ["Greet", "Rubbing", "Tails", "Groomed"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 573,
@@ -5285,7 +5025,6 @@ export const pokemonDatabase = [
     description:
       "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
     personality: ["White", "Amazing", "Repels", "Static"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 574,
@@ -5294,7 +5033,6 @@ export const pokemonDatabase = [
     description:
       "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
     personality: ["Ribbonlike", "Increase", "Psychic", "Staring"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 575,
@@ -5303,7 +5041,6 @@ export const pokemonDatabase = [
     description:
       "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
     personality: ["Starlight", "Source", "Mark", "Float"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 576,
@@ -5312,7 +5049,6 @@ export const pokemonDatabase = [
     description:
       "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
     personality: ["Starry", "Light-years", "Distorted", "Intense"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 577,
@@ -5321,7 +5057,6 @@ export const pokemonDatabase = [
     description:
       "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
     personality: ["Enveloped", "Special", "Fine", "Severe"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 578,
@@ -5330,7 +5065,6 @@ export const pokemonDatabase = [
     description:
       "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
     personality: ["Divided", "Brains", "Suddenly", "Different"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 579,
@@ -5339,7 +5073,6 @@ export const pokemonDatabase = [
     description:
       "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
     personality: ["Shake", "Network", "Brains", "Increasing"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 580,
@@ -5348,7 +5081,6 @@ export const pokemonDatabase = [
     description:
       "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food—peat moss.",
     personality: ["Excellent", "Divers", "Swim", "Peat"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 581,
@@ -5357,7 +5089,6 @@ export const pokemonDatabase = [
     description:
       "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
     personality: ["Dance", "Dusk", "Middle", "Leader"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 582,
@@ -5366,7 +5097,6 @@ export const pokemonDatabase = [
     description:
       "The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them.",
     personality: ["Temperature", "Breath", "Crystals", "Fall"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 583,
@@ -5375,7 +5105,6 @@ export const pokemonDatabase = [
     description:
       "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
     personality: ["Snowy", "Mountains", "Ancient", "Southern"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 584,
@@ -5384,7 +5113,6 @@ export const pokemonDatabase = [
     description:
       "Swallowing large amounts of water, they make snow clouds inside their bodies and attack their foes with violent blizzards.",
     personality: ["Swallowing", "Snow", "Clouds", "Violent"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 585,
@@ -5393,7 +5121,6 @@ export const pokemonDatabase = [
     description:
       "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
     personality: ["Color", "Scent", "Match", "Hide"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 586,
@@ -5402,7 +5129,6 @@ export const pokemonDatabase = [
     description:
       "They migrate according to the seasons. People can tell the season by looking at Sawsbuck's horns.",
     personality: ["Migrate", "Seasons", "Tell", "Horns"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 587,
@@ -5411,7 +5137,6 @@ export const pokemonDatabase = [
     description:
       "The energy made in its cheek pouches is stored inside its membrane and released while it is gliding.",
     personality: ["Energy", "Cheek", "Stored", "Gliding"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 588,
@@ -5420,7 +5145,6 @@ export const pokemonDatabase = [
     description:
       "These mysterious Pokémon evolve when they receive electrical stimulation while they are attacking Shelmet.",
     personality: ["Mysterious", "Evolve", "Electrical", "Attacking"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 589,
@@ -5429,7 +5153,6 @@ export const pokemonDatabase = [
     description:
       "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
     personality: ["Fly", "High", "Pointed", "Bravely"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 590,
@@ -5438,7 +5161,6 @@ export const pokemonDatabase = [
     description:
       "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
     personality: ["Lures", "Pattern", "Releases", "Resembles"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 591,
@@ -5447,7 +5169,6 @@ export const pokemonDatabase = [
     description:
       "It moves the caps on both arms and does a dance to lure prey. Then it sprinkles poisonous spores.",
     personality: ["Moves", "Caps", "Dance", "Sprinkles"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 592,
@@ -5456,7 +5177,6 @@ export const pokemonDatabase = [
     description:
       "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
     personality: ["Thin", "Veil-like", "Wrapped", "Sinks"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 593,
@@ -5465,7 +5185,6 @@ export const pokemonDatabase = [
     description:
       "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
     personality: ["Fate", "Ships", "Sunken", "Vanished"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 594,
@@ -5474,7 +5193,6 @@ export const pokemonDatabase = [
     description:
       "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
     personality: ["Floating", "Open", "Wounded", "Embrace"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 595,
@@ -5483,7 +5201,6 @@ export const pokemonDatabase = [
     description:
       "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
     personality: ["Attach", "Large-bodied", "Absorb", "Store"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 596,
@@ -5492,7 +5209,6 @@ export const pokemonDatabase = [
     description:
       "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
     personality: ["Employ", "Charged", "Trap", "Leisurely"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 597,
@@ -5501,7 +5217,6 @@ export const pokemonDatabase = [
     description:
       "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
     personality: ["Threatened", "Barrage", "Spikes", "Rolling"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 598,
@@ -5510,7 +5225,6 @@ export const pokemonDatabase = [
     description:
       "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
     personality: ["Fights", "Swinging", "Spiky", "Rubble"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 599,
@@ -5519,7 +5233,6 @@ export const pokemonDatabase = [
     description:
       "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
     personality: ["Minigears", "Mesh", "Predetermined", "Rebound"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 600,
@@ -5528,7 +5241,6 @@ export const pokemonDatabase = [
     description:
       "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
     personality: ["Changing", "Direction", "Communicates", "Faster"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 601,
@@ -5537,7 +5249,6 @@ export const pokemonDatabase = [
     description:
       "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
     personality: ["Red", "Functions", "Tank", "Fires"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 602,
@@ -5546,7 +5257,6 @@ export const pokemonDatabase = [
     description:
       "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.",
     personality: ["Alone", "Chain", "Many", "Lightning"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 603,
@@ -5555,7 +5265,6 @@ export const pokemonDatabase = [
     description:
       "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
     personality: ["Coil", "Shock", "Generating", "Circular"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 604,
@@ -5564,7 +5273,6 @@ export const pokemonDatabase = [
     description:
       "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
     personality: ["Crawl", "Arms", "Attack", "Drag"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 605,
@@ -5573,7 +5281,6 @@ export const pokemonDatabase = [
     description:
       "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
     personality: ["Strong", "Squeeze", "Brain", "Unendurable"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 606,
@@ -5582,7 +5289,6 @@ export const pokemonDatabase = [
     description:
       "It can manipulate an opponent's memory. Apparently, it communicates by flashing its three fingers.",
     personality: ["Manipulate", "Memory", "Communicates", "Flashing"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 607,
@@ -5591,7 +5297,6 @@ export const pokemonDatabase = [
     description:
       "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
     personality: ["Shines", "Absorbs", "Life", "Fuel"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 608,
@@ -5600,7 +5305,6 @@ export const pokemonDatabase = [
     description:
       "It arrives near the moment of death and steals spirit from the body.",
     personality: ["Arrives", "Death", "Steals", "Spirit"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 609,
@@ -5609,7 +5313,6 @@ export const pokemonDatabase = [
     description:
       "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
     personality: ["Consumed", "Flame", "Burns", "Spirit"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 610,
@@ -5618,7 +5321,6 @@ export const pokemonDatabase = [
     description:
       "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
     personality: ["Tusks", "Crush", "Regrowth", "Sharp"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 611,
@@ -5627,7 +5329,6 @@ export const pokemonDatabase = [
     description:
       "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they have been fighting.",
     personality: ["Broken", "Diligently", "Sharpen", "Fighting"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 612,
@@ -5636,7 +5337,6 @@ export const pokemonDatabase = [
     description:
       "Their sturdy tusks will stay sharp even if used to cut through the thick hide of an iron sheet.",
     personality: ["Sturdy", "Stay", "Cut", "Thick"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 613,
@@ -5645,7 +5345,6 @@ export const pokemonDatabase = [
     description:
       "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
     personality: ["Running", "Sniffs", "Mucus", "Raw"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 614,
@@ -5654,7 +5353,6 @@ export const pokemonDatabase = [
     description:
       "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
     personality: ["Freezes", "Breath", "Fangs", "Northern"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 615,
@@ -5663,7 +5361,6 @@ export const pokemonDatabase = [
     description:
       "When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice.",
     personality: ["Temperature", "Steam", "Vanishes", "Returns"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 616,
@@ -5672,7 +5369,6 @@ export const pokemonDatabase = [
     description:
       "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
     personality: ["Attacked", "Defends", "Closing", "Sticky"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 617,
@@ -5681,7 +5377,6 @@ export const pokemonDatabase = [
     description:
       "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
     personality: ["Dries", "Weakens", "Prevent", "Membrane"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 618,
@@ -5690,7 +5385,6 @@ export const pokemonDatabase = [
     description:
       "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
     personality: ["Hard", "Unhurt", "Wrestlers", "Smiles"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 619,
@@ -5699,7 +5393,6 @@ export const pokemonDatabase = [
     description:
       "In fights, they dominate with onslaughts of flowing, continuous attacks. Over 300 years ago, they were used as rare flying ninjas.",
     personality: ["Dominate", "Flowing", "Continuous", "Ninjas"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 620,
@@ -5708,7 +5401,6 @@ export const pokemonDatabase = [
     description:
       "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
     personality: ["Wields", "Whip", "Rapidity", "Seen"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 621,
@@ -5717,7 +5409,6 @@ export const pokemonDatabase = [
     description:
       "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
     personality: ["Warms", "Absorbing", "Wings", "Falls"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 622,
@@ -5726,7 +5417,6 @@ export const pokemonDatabase = [
     description:
       "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
     personality: ["Energy", "Burns", "Enables", "Identify"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 623,
@@ -5735,7 +5425,6 @@ export const pokemonDatabase = [
     description:
       "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
     personality: ["Flies", "Mach", "Removing", "Control"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 624,
@@ -5744,7 +5433,6 @@ export const pokemonDatabase = [
     description:
       "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
     personality: ["Blades", "Comprise", "Dulls", "Sharpens"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 625,
@@ -5753,7 +5441,6 @@ export const pokemonDatabase = [
     description:
       "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
     personality: ["Leads", "Group", "Boss", "Driven"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 626,
@@ -5762,7 +5449,6 @@ export const pokemonDatabase = [
     description:
       "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
     personality: ["Fluffy", "Absorbs", "Strike", "Fierce"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 627,
@@ -5771,7 +5457,6 @@ export const pokemonDatabase = [
     description:
       "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
     personality: ["Challenge", "Strong", "Fear", "Stronger"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 628,
@@ -5780,7 +5465,6 @@ export const pokemonDatabase = [
     description:
       "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
     personality: ["Scars", "Respect", "Brave", "Sky"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 629,
@@ -5789,7 +5473,6 @@ export const pokemonDatabase = [
     description:
       "Its wings are too tiny to allow it to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
     personality: ["Tiny", "Allow", "Guard", "Gathered"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 630,
@@ -6540,7 +6223,6 @@ export const pokemonDatabase = [
     description:
       "It sends a soothing aura from its ribbonlike feelers to calm fights.",
     personality: ["Caring", "Peaceful", "Gentle", "Empathetic"],
-    image: "/placeholder.svg?height=64&width=64",
   },
   {
     id: 701,
@@ -6760,2360 +6442,5 @@ export const pokemonDatabase = [
       "forceful",
     ],
     image: "/pokemon/721.png",
-  },
-  {
-    id: 722,
-    name: "Rowlet",
-    type: ["Grass", "Flying"],
-    description:
-      "The Grass Quill Pokémon. Rowlet can approach foes without making a sound.",
-    personality: ["stealthy", "quiet", "observant", "nature-loving", "calm"],
-    image: "/pokemon/722.png",
-  },
-  {
-    id: 723,
-    name: "Dartrix",
-    type: ["Grass", "Flying"],
-    description:
-      "The Blade Quill Pokémon. Dartrix is extremely vain about its appearance.",
-    personality: ["vain", "stylish", "precise", "perfectionist", "dramatic"],
-    image: "/pokemon/723.png",
-  },
-  {
-    id: 724,
-    name: "Decidueye",
-    type: ["Grass", "Ghost"],
-    description:
-      "The Arrow Quill Pokémon. Decidueye can pin foes to trees with its arrow quills.",
-    personality: ["precise", "silent", "archer", "mysterious", "focused"],
-    image: "/pokemon/724.png",
-  },
-  {
-    id: 725,
-    name: "Litten",
-    type: ["Fire"],
-    description:
-      "The Fire Cat Pokémon. Litten grooms its fur to prepare for battle.",
-    personality: ["independent", "aloof", "clean", "strategic", "solitary"],
-    image: "/pokemon/725.png",
-  },
-  {
-    id: 726,
-    name: "Torracat",
-    type: ["Fire"],
-    description:
-      "The Fire Cat Pokémon. Torracat's bell can produce waves that disorient foes.",
-    personality: [
-      "emotional",
-      "passionate",
-      "bell-ringer",
-      "expressive",
-      "fierce",
-    ],
-    image: "/pokemon/726.png",
-  },
-  {
-    id: 727,
-    name: "Incineroar",
-    type: ["Fire", "Dark"],
-    description:
-      "The Heel Pokémon. Incineroar battles with the strength and pride of a wrestler.",
-    personality: ["wrestler", "show-off", "strong", "prideful", "theatrical"],
-    image: "/pokemon/727.png",
-  },
-  {
-    id: 728,
-    name: "Popplio",
-    type: ["Water"],
-    description:
-      "The Sea Lion Pokémon. Popplio can create balloons made of water.",
-    personality: ["playful", "performer", "bubbly", "cheerful", "entertaining"],
-    image: "/pokemon/728.png",
-  },
-  {
-    id: 729,
-    name: "Brionne",
-    type: ["Water"],
-    description:
-      "The Pop Star Pokémon. Brionne learns dances by mimicking other Brionne.",
-    personality: ["dancer", "social", "graceful", "learning", "artistic"],
-    image: "/pokemon/729.png",
-  },
-  {
-    id: 730,
-    name: "Primarina",
-    type: ["Water", "Fairy"],
-    description:
-      "The Soloist Pokémon. Primarina controls water balloons with its singing.",
-    personality: ["vocalist", "elegant", "performer", "emotional", "artistic"],
-    image: "/pokemon/730.png",
-  },
-  {
-    id: 731,
-    name: "Pikipek",
-    type: ["Normal", "Flying"],
-    description:
-      "The Woodpecker Pokémon. Pikipek can drill through hard wood in 16 pecks per second.",
-    personality: [
-      "persistent",
-      "hardworking",
-      "rhythmic",
-      "determined",
-      "industrious",
-    ],
-    image: "/pokemon/731.png",
-  },
-  {
-    id: 732,
-    name: "Trumbeak",
-    type: ["Normal", "Flying"],
-    description:
-      "The Bugle Beak Pokémon. Trumbeak can bend its beak to produce different sounds.",
-    personality: ["musical", "flexible", "communicative", "loud", "expressive"],
-    image: "/pokemon/732.png",
-  },
-  {
-    id: 733,
-    name: "Toucannon",
-    type: ["Normal", "Flying"],
-    description:
-      "The Cannon Pokémon. Toucannon can fire its beak like a cannon.",
-    personality: [
-      "explosive",
-      "hot-headed",
-      "aggressive",
-      "territorial",
-      "fierce",
-    ],
-    image: "/pokemon/733.png",
-  },
-  {
-    id: 734,
-    name: "Yungoos",
-    type: ["Normal"],
-    description:
-      "The Loitering Pokémon. Yungoos has a strong stomach and can eat almost anything.",
-    personality: ["hungry", "persistent", "stubborn", "adaptable", "tenacious"],
-    image: "/pokemon/734.png",
-  },
-  {
-    id: 735,
-    name: "Gumshoos",
-    type: ["Normal"],
-    description:
-      "The Stakeout Pokémon. Gumshoos patiently waits for prey to come within range.",
-    personality: [
-      "patient",
-      "watchful",
-      "strategic",
-      "persistent",
-      "calculating",
-    ],
-    image: "/pokemon/735.png",
-  },
-  {
-    id: 736,
-    name: "Grubbin",
-    type: ["Bug"],
-    description:
-      "The Larva Pokémon. Grubbin creates sticky silk to swing from tree to tree.",
-    personality: [
-      "clingy",
-      "acrobatic",
-      "silk-spinner",
-      "adventurous",
-      "resourceful",
-    ],
-    image: "/pokemon/736.png",
-  },
-  {
-    id: 737,
-    name: "Charjabug",
-    type: ["Bug", "Electric"],
-    description:
-      "The Battery Pokémon. Charjabug can store electricity and power other Pokémon.",
-    personality: ["supportive", "electric", "patient", "helpful", "storage"],
-    image: "/pokemon/737.png",
-  },
-  {
-    id: 738,
-    name: "Vikavolt",
-    type: ["Bug", "Electric"],
-    description:
-      "The Stag Beetle Pokémon. Vikavolt can fire electricity from its jaws.",
-    personality: ["powerful", "electric", "flying", "aggressive", "hunter"],
-    image: "/pokemon/738.png",
-  },
-  {
-    id: 739,
-    name: "Crabrawler",
-    type: ["Fighting"],
-    description:
-      "The Boxing Pokémon. Crabrawler punches with its claws to communicate and show dominance.",
-    personality: [
-      "boxer",
-      "aggressive",
-      "competitive",
-      "strong",
-      "communicative",
-    ],
-    image: "/pokemon/739.png",
-  },
-  {
-    id: 740,
-    name: "Crabominable",
-    type: ["Fighting", "Ice"],
-    description:
-      "The Woolly Crab Pokémon. Crabominable developed its white fur after evolving.",
-    personality: ["woolly", "adapted", "mountain-climber", "tough", "evolved"],
-    image: "/pokemon/740.png",
-  },
-  {
-    id: 741,
-    name: "Oricorio",
-    type: ["Fire", "Flying"],
-    description:
-      "The Dancing Pokémon. Oricorio changes its form by sipping different nectars.",
-    personality: ["dancer", "adaptable", "graceful", "nectar-lover", "stylish"],
-    image: "/pokemon/741.png",
-  },
-  {
-    id: 742,
-    name: "Cutiefly",
-    type: ["Bug", "Fairy"],
-    description:
-      "The Bee Fly Pokémon. Cutiefly can detect the aura of living things.",
-    personality: ["cute", "perceptive", "aura-sensing", "tiny", "gentle"],
-    image: "/pokemon/742.png",
-  },
-  {
-    id: 743,
-    name: "Ribombee",
-    type: ["Bug", "Fairy"],
-    description:
-      "The Bee Fly Pokémon. Ribombee makes pollen puffs that can cause effects on those who touch them.",
-    personality: ["crafty", "pollen-maker", "helpful", "nurturing", "creative"],
-    image: "/pokemon/743.png",
-  },
-  {
-    id: 744,
-    name: "Rockruff",
-    type: ["Rock"],
-    description:
-      "The Puppy Pokémon. Rockruff is known for its loyalty to its trainer.",
-    personality: ["loyal", "playful", "rock-loving", "friendly", "dedicated"],
-    image: "/pokemon/744.png",
-  },
-  {
-    id: 745,
-    name: "Lycanroc",
-    type: ["Rock"],
-    description:
-      "The Wolf Pokémon. Lycanroc is known for its speed and sharp claws.",
-    personality: ["swift", "sharp", "wolf-like", "independent", "proud"],
-    image: "/pokemon/745.png",
-  },
-  {
-    id: 746,
-    name: "Wishiwashi",
-    type: ["Water"],
-    description:
-      "The Small Fry Pokémon. Wishiwashi can call for help and form schools.",
-    personality: [
-      "weak-alone",
-      "strong-together",
-      "social",
-      "cooperative",
-      "teamwork",
-    ],
-    image: "/pokemon/746.png",
-  },
-  {
-    id: 747,
-    name: "Mareanie",
-    type: ["Poison", "Water"],
-    description:
-      "The Brutal Star Pokémon. Mareanie regenerates any limb it loses in battle.",
-    personality: [
-      "regenerative",
-      "brutal",
-      "predatory",
-      "defensive",
-      "resilient",
-    ],
-    image: "/pokemon/747.png",
-  },
-  {
-    id: 748,
-    name: "Toxapex",
-    type: ["Poison", "Water"],
-    description:
-      "The Brutal Star Pokémon. Toxapex crawls along the seafloor and waits for prey.",
-    personality: ["patient", "toxic", "predatory", "defensive", "waiting"],
-    image: "/pokemon/748.png",
-  },
-  {
-    id: 749,
-    name: "Mudbray",
-    type: ["Ground"],
-    description:
-      "The Donkey Pokémon. Mudbray loves to get dirty and becomes stronger after bathing in mud.",
-    personality: ["muddy", "playful", "strong", "earth-loving", "hardworking"],
-    image: "/pokemon/749.png",
-  },
-  {
-    id: 750,
-    name: "Mudsdale",
-    type: ["Ground"],
-    description:
-      "The Draft Horse Pokémon. Mudsdale's kicks can destroy a car and send it flying.",
-    personality: ["powerful", "kicking", "strong", "reliable", "sturdy"],
-    image: "/pokemon/750.png",
-  },
-  {
-    id: 751,
-    name: "Dewpider",
-    type: ["Water", "Bug"],
-    description:
-      "The Water Bubble Pokémon. Dewpider stores water in the bubble around its head.",
-    personality: ["bubble-wearer", "aquatic", "protected", "small", "adaptive"],
-    image: "/pokemon/751.png",
-  },
-  {
-    id: 752,
-    name: "Araquanid",
-    type: ["Water", "Bug"],
-    description:
-      "The Water Bubble Pokémon. Araquanid uses its water bubble to headbutt enemies.",
-    personality: [
-      "bubble-fighter",
-      "protective",
-      "aquatic",
-      "caring",
-      "strong",
-    ],
-    image: "/pokemon/752.png",
-  },
-  {
-    id: 753,
-    name: "Fomantis",
-    type: ["Grass"],
-    description:
-      "The Sickle Grass Pokémon. Fomantis sleeps during the day and is active at night.",
-    personality: [
-      "nocturnal",
-      "sleepy",
-      "photosynthetic",
-      "peaceful",
-      "resting",
-    ],
-    image: "/pokemon/753.png",
-  },
-  {
-    id: 754,
-    name: "Lurantis",
-    type: ["Grass"],
-    description:
-      "The Bloom Sickle Pokémon. Lurantis draws opponents near with its floral aroma.",
-    personality: [
-      "alluring",
-      "fragrant",
-      "deceptive",
-      "beautiful",
-      "predatory",
-    ],
-    image: "/pokemon/754.png",
-  },
-  {
-    id: 755,
-    name: "Morelull",
-    type: ["Grass", "Fairy"],
-    description:
-      "The Illuminating Pokémon. Morelull scatters glowing spores to confuse enemies.",
-    personality: [
-      "glowing",
-      "confusing",
-      "nocturnal",
-      "spore-scattering",
-      "mystical",
-    ],
-    image: "/pokemon/755.png",
-  },
-  {
-    id: 756,
-    name: "Shiinotic",
-    type: ["Grass", "Fairy"],
-    description:
-      "The Illuminating Pokémon. Shiinotic emits flickering lights to lure prey into the forest.",
-    personality: [
-      "luring",
-      "hypnotic",
-      "forest-dweller",
-      "mysterious",
-      "predatory",
-    ],
-    image: "/pokemon/756.png",
-  },
-  {
-    id: 757,
-    name: "Salandit",
-    type: ["Poison", "Fire"],
-    description:
-      "The Toxic Lizard Pokémon. Salandit can emit toxic gas from the base of its tail.",
-    personality: ["toxic", "sneaky", "gas-emitting", "lizard-like", "cunning"],
-    image: "/pokemon/757.png",
-  },
-  {
-    id: 758,
-    name: "Salazzle",
-    type: ["Poison", "Fire"],
-    description:
-      "The Toxic Lizard Pokémon. Salazzle creates reverse harems of male Salandit.",
-    personality: ["dominant", "toxic", "seductive", "leader", "commanding"],
-    image: "/pokemon/758.png",
-  },
-  {
-    id: 759,
-    name: "Stufful",
-    type: ["Normal", "Fighting"],
-    description:
-      "The Flailing Pokémon. Stufful may look cute, but it has incredible strength.",
-    personality: [
-      "deceptively-strong",
-      "cute",
-      "dangerous",
-      "flailing",
-      "surprising",
-    ],
-    image: "/pokemon/759.png",
-  },
-  {
-    id: 760,
-    name: "Bewear",
-    type: ["Normal", "Fighting"],
-    description:
-      "The Strong Arm Pokémon. Bewear's hugs can crush the life out of its targets.",
-    personality: ["hugger", "dangerous", "strong", "affectionate", "crushing"],
-    image: "/pokemon/760.png",
-  },
-  {
-    id: 761,
-    name: "Bounsweet",
-    type: ["Grass"],
-    description:
-      "The Fruit Pokémon. Bounsweet exudes a delicious aroma that attracts other Pokémon.",
-    personality: ["sweet", "fragrant", "attractive", "delicious", "innocent"],
-    image: "/pokemon/761.png",
-  },
-  {
-    id: 762,
-    name: "Steenee",
-    type: ["Grass"],
-    description:
-      "The Fruit Pokémon. Steenee is very lively and energetic, always bouncing around.",
-    personality: ["lively", "energetic", "bouncing", "playful", "spirited"],
-    image: "/pokemon/762.png",
-  },
-  {
-    id: 763,
-    name: "Tsareena",
-    type: ["Grass"],
-    description:
-      "The Fruit Pokémon. Tsareena's long legs deliver powerful kicks to its enemies.",
-    personality: ["kicking", "proud", "regal", "strong-legged", "commanding"],
-    image: "/pokemon/763.png",
-  },
-  {
-    id: 764,
-    name: "Comfey",
-    type: ["Fairy"],
-    description:
-      "The Posy Picker Pokémon. Comfey attaches flowers to its vine to make itself more appealing.",
-    personality: [
-      "flower-loving",
-      "appealing",
-      "decorative",
-      "healing",
-      "nurturing",
-    ],
-    image: "/pokemon/764.png",
-  },
-  {
-    id: 765,
-    name: "Oranguru",
-    type: ["Normal", "Psychic"],
-    description:
-      "The Sage Pokémon. Oranguru is known for its intelligence and use of tools.",
-    personality: [
-      "wise",
-      "intelligent",
-      "tool-using",
-      "sage-like",
-      "thoughtful",
-    ],
-    image: "/pokemon/765.png",
-  },
-  {
-    id: 766,
-    name: "Passimian",
-    type: ["Fighting"],
-    description:
-      "The Teamwork Pokémon. Passimian live in troops and work together to achieve goals.",
-    personality: [
-      "teamwork",
-      "cooperative",
-      "athletic",
-      "social",
-      "coordinated",
-    ],
-    image: "/pokemon/766.png",
-  },
-  {
-    id: 767,
-    name: "Wimpod",
-    type: ["Bug", "Water"],
-    description:
-      "The Turn Tail Pokémon. Wimpod is cowardly and will flee at the first sign of danger.",
-    personality: [
-      "cowardly",
-      "fleeing",
-      "timid",
-      "cautious",
-      "survival-focused",
-    ],
-    image: "/pokemon/767.png",
-  },
-  {
-    id: 768,
-    name: "Golisopod",
-    type: ["Bug", "Water"],
-    description:
-      "The Hard Scale Pokémon. Golisopod is brave and will fight fiercely to protect others.",
-    personality: [
-      "brave",
-      "protective",
-      "fierce",
-      "armored",
-      "evolved-courage",
-    ],
-    image: "/pokemon/768.png",
-  },
-  {
-    id: 769,
-    name: "Sandygast",
-    type: ["Ghost", "Ground"],
-    description:
-      "The Sand Heap Pokémon. Sandygast controls people who put their hand in its mouth.",
-    personality: [
-      "controlling",
-      "sandy",
-      "ghostly",
-      "possessive",
-      "trap-setting",
-    ],
-    image: "/pokemon/769.png",
-  },
-  {
-    id: 770,
-    name: "Palossand",
-    type: ["Ghost", "Ground"],
-    description:
-      "The Sand Castle Pokémon. Palossand controls people and Pokémon to gather more sand.",
-    personality: [
-      "controlling",
-      "sand-gathering",
-      "castle-like",
-      "manipulative",
-      "growing",
-    ],
-    image: "/pokemon/770.png",
-  },
-  {
-    id: 771,
-    name: "Pyukumuku",
-    type: ["Water"],
-    description:
-      "The Sea Cucumber Pokémon. Pyukumuku has a violent disposition despite its cute appearance.",
-    personality: [
-      "deceptively-violent",
-      "cute",
-      "sea-dwelling",
-      "territorial",
-      "surprising",
-    ],
-    image: "/pokemon/771.png",
-  },
-  {
-    id: 772,
-    name: "Type: Null",
-    type: ["Normal"],
-    description:
-      "The Synthetic Pokémon. Type: Null was created to synthesize the strengths of various Pokémon.",
-    personality: [
-      "synthetic",
-      "experimental",
-      "strong",
-      "artificial",
-      "adaptive",
-    ],
-    image: "/pokemon/772.png",
-  },
-  {
-    id: 773,
-    name: "Silvally",
-    type: ["Normal"],
-    description:
-      "The Synthetic Pokémon. Silvally can change its type by holding different memory discs.",
-    personality: [
-      "adaptive",
-      "loyal",
-      "memory-driven",
-      "versatile",
-      "bond-formed",
-    ],
-    image: "/pokemon/773.png",
-  },
-  {
-    id: 774,
-    name: "Minior",
-    type: ["Rock", "Flying"],
-    description:
-      "The Meteor Pokémon. Minior was born from mutated nanoparticles in the ozone layer.",
-    personality: [
-      "meteoric",
-      "colorful",
-      "shell-breaking",
-      "space-born",
-      "explosive",
-    ],
-    image: "/pokemon/774.png",
-  },
-  {
-    id: 775,
-    name: "Komala",
-    type: ["Normal"],
-    description:
-      "The Drowsing Pokémon. Komala spends its entire life asleep and never wakes up.",
-    personality: ["sleepy", "dreaming", "never-waking", "peaceful", "drowsy"],
-    image: "/pokemon/775.png",
-  },
-  {
-    id: 776,
-    name: "Turtonator",
-    type: ["Fire", "Dragon"],
-    description:
-      "The Blast Turtle Pokémon. Turtonator's shell can explode when struck on the back.",
-    personality: [
-      "explosive",
-      "turtle-like",
-      "defensive",
-      "volatile",
-      "reactive",
-    ],
-    image: "/pokemon/776.png",
-  },
-  {
-    id: 777,
-    name: "Togedemaru",
-    type: ["Electric", "Steel"],
-    description:
-      "The Roly-Poly Pokémon. Togedemaru curls up into a ball to defend itself.",
-    personality: ["defensive", "spiky", "electric", "rolling", "cute"],
-    image: "/pokemon/777.png",
-  },
-  {
-    id: 778,
-    name: "Mimikyu",
-    type: ["Ghost", "Fairy"],
-    description:
-      "The Disguise Pokémon. Mimikyu wears a Pikachu costume to avoid being seen.",
-    personality: ["disguised", "lonely", "imitative", "hidden", "seeking-love"],
-    image: "/pokemon/778.png",
-  },
-  {
-    id: 779,
-    name: "Bruxish",
-    type: ["Water", "Psychic"],
-    description:
-      "The Gnash Teeth Pokémon. Bruxish grinds its teeth to emit a grinding sound.",
-    personality: [
-      "grinding",
-      "teeth-gnashing",
-      "psychic",
-      "colorful",
-      "fierce",
-    ],
-    image: "/pokemon/779.png",
-  },
-  {
-    id: 780,
-    name: "Drampa",
-    type: ["Normal", "Dragon"],
-    description:
-      "The Placid Pokémon. Drampa is gentle and loves playing with children.",
-    personality: ["gentle", "child-loving", "placid", "kind", "protective"],
-    image: "/pokemon/780.png",
-  },
-  {
-    id: 781,
-    name: "Dhelmise",
-    type: ["Ghost", "Grass"],
-    description:
-      "The Sea Creeper Pokémon. Dhelmise swings its anchor to attack and defend.",
-    personality: [
-      "anchored",
-      "sea-dwelling",
-      "swinging",
-      "ghostly",
-      "maritime",
-    ],
-    image: "/pokemon/781.png",
-  },
-  {
-    id: 782,
-    name: "Jangmo-o",
-    type: ["Dragon"],
-    description:
-      "The Scaly Pokémon. Jangmo-o has a habit of making its scales ring by striking them.",
-    personality: [
-      "musical",
-      "scale-ringing",
-      "training",
-      "sound-making",
-      "practicing",
-    ],
-    image: "/pokemon/782.png",
-  },
-  {
-    id: 783,
-    name: "Hakamo-o",
-    type: ["Dragon", "Fighting"],
-    description:
-      "The Scaly Pokémon. Hakamo-o dances before battle to show its strength.",
-    personality: [
-      "dancing",
-      "pre-battle",
-      "showing-off",
-      "rhythmic",
-      "confident",
-    ],
-    image: "/pokemon/783.png",
-  },
-  {
-    id: 784,
-    name: "Kommo-o",
-    type: ["Dragon", "Fighting"],
-    description:
-      "The Scaly Pokémon. Kommo-o clatters its scales together to communicate over long distances.",
-    personality: [
-      "communicative",
-      "scale-clattering",
-      "long-distance",
-      "leader",
-      "wise",
-    ],
-    image: "/pokemon/784.png",
-  },
-  {
-    id: 785,
-    name: "Tapu Koko",
-    type: ["Electric", "Fairy"],
-    description:
-      "The Land Spirit Pokémon. Tapu Koko protects Melemele Island as its guardian deity.",
-    personality: [
-      "guardian",
-      "electric",
-      "protective",
-      "island-spirit",
-      "divine",
-    ],
-    image: "/pokemon/785.png",
-  },
-  {
-    id: 786,
-    name: "Tapu Lele",
-    type: ["Psychic", "Fairy"],
-    description:
-      "The Land Spirit Pokémon. Tapu Lele protects Akala Island and heals the sick.",
-    personality: [
-      "healing",
-      "psychic",
-      "island-guardian",
-      "caring",
-      "mystical",
-    ],
-    image: "/pokemon/786.png",
-  },
-  {
-    id: 787,
-    name: "Tapu Bulu",
-    type: ["Grass", "Fairy"],
-    description:
-      "The Land Spirit Pokémon. Tapu Bulu protects Ula'ula Island and controls vegetation.",
-    personality: [
-      "vegetation-controlling",
-      "island-protector",
-      "nature-loving",
-      "strong",
-      "grassy",
-    ],
-    image: "/pokemon/787.png",
-  },
-  {
-    id: 788,
-    name: "Tapu Fini",
-    type: ["Water", "Fairy"],
-    description:
-      "The Land Spirit Pokémon. Tapu Fini protects Poni Island and purifies water.",
-    personality: [
-      "purifying",
-      "water-controlling",
-      "island-guardian",
-      "cleansing",
-      "mystical",
-    ],
-    image: "/pokemon/788.png",
-  },
-  {
-    id: 789,
-    name: "Cosmog",
-    type: ["Psychic"],
-    description:
-      "The Nebula Pokémon. Cosmog is said to be a young star in the process of being born.",
-    personality: ["cosmic", "star-born", "young", "gaseous", "mysterious"],
-    image: "/pokemon/789.png",
-  },
-  {
-    id: 790,
-    name: "Cosmoem",
-    type: ["Psychic"],
-    description:
-      "The Protostar Pokémon. Cosmoem is developing a star inside its body.",
-    personality: ["developing", "protostar", "dormant", "growing", "cosmic"],
-    image: "/pokemon/790.png",
-  },
-  {
-    id: 791,
-    name: "Solgaleo",
-    type: ["Psychic", "Steel"],
-    description:
-      "The Sunne Pokémon. Solgaleo is said to live in another world and return to full power.",
-    personality: [
-      "solar",
-      "otherworldly",
-      "powerful",
-      "lion-like",
-      "legendary",
-    ],
-    image: "/pokemon/791.png",
-  },
-  {
-    id: 792,
-    name: "Lunala",
-    type: ["Psychic", "Ghost"],
-    description:
-      "The Moone Pokémon. Lunala is said to live in another world and call forth the night.",
-    personality: [
-      "lunar",
-      "night-bringing",
-      "otherworldly",
-      "bat-like",
-      "legendary",
-    ],
-    image: "/pokemon/792.png",
-  },
-  {
-    id: 793,
-    name: "Necrozma",
-    type: ["Psychic"],
-    description:
-      "The Prism Pokémon. Necrozma survives by absorbing light and can't produce enough energy.",
-    personality: [
-      "light-absorbing",
-      "energy-hungry",
-      "prism-like",
-      "desperate",
-      "dark",
-    ],
-    image: "/pokemon/793.png",
-  },
-  {
-    id: 794,
-    name: "Magearna",
-    type: ["Steel", "Fairy"],
-    description:
-      "The Artificial Pokémon. Magearna was created 500 years ago by a scientist.",
-    personality: [
-      "artificial",
-      "ancient",
-      "mechanical",
-      "caring",
-      "soul-heart",
-    ],
-    image: "/pokemon/794.png",
-  },
-  {
-    id: 795,
-    name: "Marshadow",
-    type: ["Fighting", "Ghost"],
-    description:
-      "The Gloomdweller Pokémon. Marshadow hides in shadows and can copy the movements of others.",
-    personality: ["shadow-dwelling", "copying", "hidden", "mimic", "ghostly"],
-    image: "/pokemon/795.png",
-  },
-  {
-    id: 796,
-    name: "Zeraora",
-    type: ["Electric"],
-    description:
-      "The Thunderclap Pokémon. Zeraora can move at the speed of lightning.",
-    personality: [
-      "lightning-fast",
-      "electric",
-      "speed",
-      "feline",
-      "thunderous",
-    ],
-    image: "/pokemon/796.png",
-  },
-  {
-    id: 797,
-    name: "Meltan",
-    type: ["Steel"],
-    description:
-      "The Hex Nut Pokémon. Meltan can dissolve metal and absorb it into its body.",
-    personality: [
-      "metal-eating",
-      "tiny",
-      "curious",
-      "dissolving",
-      "mechanical",
-    ],
-    image: "/pokemon/797.png",
-  },
-  {
-    id: 798,
-    name: "Melmetal",
-    type: ["Steel"],
-    description:
-      "The Hex Nut Pokémon. Melmetal was worshipped in ancient times as a Pokémon with the power to create metal.",
-    personality: [
-      "metal-creating",
-      "ancient",
-      "worshipped",
-      "powerful",
-      "mythical",
-    ],
-    image: "/pokemon/798.png",
-  },
-  {
-    id: 799,
-    name: "Guzzlord",
-    type: ["Dark", "Dragon"],
-    description:
-      "It has gobbled mountains and swallowed whole buildings, according to reports. It’s one of the Ultra Beasts.",
-    personality: [
-      "mysterious",
-      "cunning",
-      "night-dwelling",
-      "shadowy",
-      "strategic",
-    ],
-    image: "/pokemon/799.png",
-  },
-  {
-    id: 803,
-    name: "Poipole",
-    type: ["Poison"],
-    description:
-      "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
-    personality: ["toxic", "cunning", "dangerous", "adaptive", "resilient"],
-    image: "/pokemon/803.png",
-  },
-  {
-    id: 804,
-    name: "Naganadel",
-    type: ["Poison", "Dragon"],
-    description:
-      "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
-    personality: ["toxic", "cunning", "dangerous", "adaptive", "resilient"],
-    image: "/pokemon/804.png",
-  },
-  {
-    id: 805,
-    name: "Stakataka",
-    type: ["Rock", "Steel"],
-    description:
-      "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
-    personality: ["solid", "sturdy", "defensive", "ancient", "enduring"],
-    image: "/pokemon/805.png",
-  },
-  {
-    id: 806,
-    name: "Blacephalon",
-    type: ["Fire", "Ghost"],
-    description:
-      "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It’s apparently one kind of Ultra Beast.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/806.png",
-  },
-  {
-    id: 810,
-    name: "Grookey",
-    type: ["Grass"],
-    description:
-      "The Chimp Pokémon. Grookey has a special stick that can make plants grow.",
-    personality: [
-      "musical",
-      "plant-growing",
-      "energetic",
-      "curious",
-      "stick-wielding",
-    ],
-    image: "/pokemon/810.png",
-  },
-  {
-    id: 811,
-    name: "Thwackey",
-    type: ["Grass"],
-    description:
-      "The Beat Pokémon. Thwackey uses two sticks to create rhythmic beats.",
-    personality: [
-      "rhythmic",
-      "beat-making",
-      "musical",
-      "energetic",
-      "drumming",
-    ],
-    image: "/pokemon/811.png",
-  },
-  {
-    id: 812,
-    name: "Rillaboom",
-    type: ["Grass"],
-    description:
-      "The Drummer Pokémon. Rillaboom can control the roots and trees with its drumming.",
-    personality: [
-      "drummer",
-      "nature-controlling",
-      "powerful",
-      "rhythmic",
-      "leader",
-    ],
-    image: "/pokemon/812.png",
-  },
-  {
-    id: 813,
-    name: "Scorbunny",
-    type: ["Fire"],
-    description:
-      "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/813.png",
-  },
-  {
-    id: 814,
-    name: "Raboot",
-    type: ["Fire"],
-    description:
-      "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/814.png",
-  },
-  {
-    id: 815,
-    name: "Cinderace",
-    type: ["Fire"],
-    description:
-      "It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/815.png",
-  },
-  {
-    id: 816,
-    name: "Sobble",
-    type: ["Water"],
-    description:
-      "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/816.png",
-  },
-  {
-    id: 817,
-    name: "Drizzile",
-    type: ["Water"],
-    description:
-      "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/817.png",
-  },
-  {
-    id: 818,
-    name: "Inteleon",
-    type: ["Water"],
-    description:
-      "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/818.png",
-  },
-  {
-    id: 819,
-    name: "Skwovet",
-    type: ["Normal"],
-    description:
-      "Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.",
-    personality: ["balanced", "adaptable", "friendly", "common", "versatile"],
-    image: "/pokemon/819.png",
-  },
-  {
-    id: 820,
-    name: "Greedent",
-    type: ["Normal"],
-    description:
-      "It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn’t notice the loss.",
-    personality: ["balanced", "adaptable", "friendly", "common", "versatile"],
-    image: "/pokemon/820.png",
-  },
-  {
-    id: 821,
-    name: "Rookidee",
-    type: ["Flying"],
-    description:
-      "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle—even a defeat increases its strength a bit.",
-    personality: ["free", "soaring", "graceful", "swift", "aerial"],
-    image: "/pokemon/821.png",
-  },
-  {
-    id: 822,
-    name: "Corvisquire",
-    type: ["Flying"],
-    description:
-      "Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
-    personality: ["free", "soaring", "graceful", "swift", "aerial"],
-    image: "/pokemon/822.png",
-  },
-  {
-    id: 823,
-    name: "Corviknight",
-    type: ["Flying", "Steel"],
-    description:
-      "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
-    personality: ["free", "soaring", "graceful", "swift", "aerial"],
-    image: "/pokemon/823.png",
-  },
-  {
-    id: 824,
-    name: "Blipbug",
-    type: ["Bug"],
-    description:
-      "A constant collector of information, this Pokémon is very smart. Very strong is what it isn’t.",
-    personality: [
-      "industrious",
-      "small",
-      "numerous",
-      "adaptable",
-      "metamorphic",
-    ],
-    image: "/pokemon/824.png",
-  },
-  {
-    id: 825,
-    name: "Dottler",
-    type: ["Bug", "Psychic"],
-    description:
-      "It barely moves, but it’s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",
-    personality: [
-      "industrious",
-      "small",
-      "numerous",
-      "adaptable",
-      "metamorphic",
-    ],
-    image: "/pokemon/825.png",
-  },
-  {
-    id: 826,
-    name: "Orbeetle",
-    type: ["Bug", "Psychic"],
-    description:
-      "It’s famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
-    personality: [
-      "industrious",
-      "small",
-      "numerous",
-      "adaptable",
-      "metamorphic",
-    ],
-    image: "/pokemon/826.png",
-  },
-  {
-    id: 827,
-    name: "Nickit",
-    type: ["Dark"],
-    description:
-      "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
-    personality: [
-      "mysterious",
-      "cunning",
-      "night-dwelling",
-      "shadowy",
-      "strategic",
-    ],
-    image: "/pokemon/827.png",
-  },
-  {
-    id: 828,
-    name: "Thievul",
-    type: ["Dark"],
-    description:
-      "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
-    personality: [
-      "mysterious",
-      "cunning",
-      "night-dwelling",
-      "shadowy",
-      "strategic",
-    ],
-    image: "/pokemon/828.png",
-  },
-  {
-    id: 829,
-    name: "Gossifleur",
-    type: ["Grass"],
-    description:
-      "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/829.png",
-  },
-  {
-    id: 830,
-    name: "Eldegoss",
-    type: ["Grass"],
-    description:
-      "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/830.png",
-  },
-  {
-    id: 831,
-    name: "Wooloo",
-    type: ["Normal"],
-    description:
-      "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
-    personality: ["balanced", "adaptable", "friendly", "common", "versatile"],
-    image: "/pokemon/831.png",
-  },
-  {
-    id: 832,
-    name: "Dubwool",
-    type: ["Normal"],
-    description:
-      "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You’ll start to bounce the moment you set foot on it.",
-    personality: ["balanced", "adaptable", "friendly", "common", "versatile"],
-    image: "/pokemon/832.png",
-  },
-  {
-    id: 833,
-    name: "Chewtle",
-    type: ["Water"],
-    description:
-      "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/833.png",
-  },
-  {
-    id: 834,
-    name: "Drednaw",
-    type: ["Water", "Rock"],
-    description:
-      "With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/834.png",
-  },
-  {
-    id: 835,
-    name: "Yamper",
-    type: ["Electric"],
-    description:
-      "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/835.png",
-  },
-  {
-    id: 836,
-    name: "Boltund",
-    type: ["Electric"],
-    description:
-      "This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/836.png",
-  },
-  {
-    id: 837,
-    name: "Rolycoly",
-    type: ["Rock"],
-    description:
-      "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
-    personality: ["solid", "sturdy", "defensive", "ancient", "enduring"],
-    image: "/pokemon/837.png",
-  },
-  {
-    id: 838,
-    name: "Carkol",
-    type: ["Rock", "Fire"],
-    description:
-      "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.",
-    personality: ["solid", "sturdy", "defensive", "ancient", "enduring"],
-    image: "/pokemon/838.png",
-  },
-  {
-    id: 839,
-    name: "Coalossal",
-    type: ["Rock", "Fire"],
-    description:
-      "It’s usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",
-    personality: ["solid", "sturdy", "defensive", "ancient", "enduring"],
-    image: "/pokemon/839.png",
-  },
-  {
-    id: 840,
-    name: "Applin",
-    type: ["Grass", "Dragon"],
-    description:
-      "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/840.png",
-  },
-  {
-    id: 841,
-    name: "Flapple",
-    type: ["Grass", "Dragon"],
-    description:
-      "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/841.png",
-  },
-  {
-    id: 842,
-    name: "Appletun",
-    type: ["Grass", "Dragon"],
-    description:
-      "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/842.png",
-  },
-  {
-    id: 843,
-    name: "Silicobra",
-    type: ["Ground"],
-    description:
-      "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
-    personality: ["sturdy", "earthy", "solid", "reliable", "grounded"],
-    image: "/pokemon/843.png",
-  },
-  {
-    id: 844,
-    name: "Sandaconda",
-    type: ["Ground"],
-    description:
-      "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.",
-    personality: ["sturdy", "earthy", "solid", "reliable", "grounded"],
-    image: "/pokemon/844.png",
-  },
-  {
-    id: 845,
-    name: "Cramorant",
-    type: ["Flying", "Water"],
-    description:
-      "It’s so strong that it can knock out some opponents in a single hit, but it also may forget what it’s battling midfight.",
-    personality: ["free", "soaring", "graceful", "swift", "aerial"],
-    image: "/pokemon/845.png",
-  },
-  {
-    id: 846,
-    name: "Arrokuda",
-    type: ["Water"],
-    description:
-      "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It’s very proud of that jaw.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/846.png",
-  },
-  {
-    id: 847,
-    name: "Barraskewda",
-    type: ["Water"],
-    description:
-      "This Pokémon has a jaw that’s as sharp as a spear and as strong as steel. Apparently Barraskewda’s flesh is surprisingly tasty, too.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/847.png",
-  },
-  {
-    id: 848,
-    name: "Toxel",
-    type: ["Electric", "Poison"],
-    description:
-      "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/848.png",
-  },
-  {
-    id: 849,
-    name: "Toxtricity-amped",
-    type: ["Electric", "Poison"],
-    description:
-      "When this Pokémon sounds as if it’s strumming a guitar, it’s actually clawing at the protrusions on its chest to generate electricity.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/849.png",
-  },
-  {
-    id: 850,
-    name: "Sizzlipede",
-    type: ["Fire", "Bug"],
-    description:
-      "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/850.png",
-  },
-  {
-    id: 851,
-    name: "Centiskorch",
-    type: ["Fire", "Bug"],
-    description:
-      "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/851.png",
-  },
-  {
-    id: 852,
-    name: "Clobbopus",
-    type: ["Fighting"],
-    description:
-      "It’s very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
-    personality: [
-      "strong",
-      "determined",
-      "brave",
-      "competitive",
-      "disciplined",
-    ],
-    image: "/pokemon/852.png",
-  },
-  {
-    id: 853,
-    name: "Grapploct",
-    type: ["Fighting"],
-    description:
-      "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.",
-    personality: [
-      "strong",
-      "determined",
-      "brave",
-      "competitive",
-      "disciplined",
-    ],
-    image: "/pokemon/853.png",
-  },
-  {
-    id: 854,
-    name: "Sinistea",
-    type: ["Ghost"],
-    description:
-      "This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
-    personality: [
-      "mysterious",
-      "ethereal",
-      "haunting",
-      "spiritual",
-      "otherworldly",
-    ],
-    image: "/pokemon/854.png",
-  },
-  {
-    id: 855,
-    name: "Polteageist",
-    type: ["Ghost"],
-    description:
-      "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",
-    personality: [
-      "mysterious",
-      "ethereal",
-      "haunting",
-      "spiritual",
-      "otherworldly",
-    ],
-    image: "/pokemon/855.png",
-  },
-  {
-    id: 856,
-    name: "Hatenna",
-    type: ["Psychic"],
-    description:
-      "Via the protrusion on its head, it senses other creatures’ emotions. If you don’t have a calm disposition, it will never warm up to you.",
-    personality: [
-      "intelligent",
-      "mystical",
-      "telepathic",
-      "wise",
-      "mysterious",
-    ],
-    image: "/pokemon/856.png",
-  },
-  {
-    id: 857,
-    name: "Hattrem",
-    type: ["Psychic"],
-    description:
-      "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
-    personality: [
-      "intelligent",
-      "mystical",
-      "telepathic",
-      "wise",
-      "mysterious",
-    ],
-    image: "/pokemon/857.png",
-  },
-  {
-    id: 858,
-    name: "Hatterene",
-    type: ["Psychic", "Fairy"],
-    description:
-      "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
-    personality: [
-      "intelligent",
-      "mystical",
-      "telepathic",
-      "wise",
-      "mysterious",
-    ],
-    image: "/pokemon/858.png",
-  },
-  {
-    id: 859,
-    name: "Impidimp",
-    type: ["Dark", "Fairy"],
-    description:
-      "Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.",
-    personality: [
-      "mysterious",
-      "cunning",
-      "night-dwelling",
-      "shadowy",
-      "strategic",
-    ],
-    image: "/pokemon/859.png",
-  },
-  {
-    id: 860,
-    name: "Morgrem",
-    type: ["Dark", "Fairy"],
-    description:
-      "When it gets down on all fours as if to beg for forgiveness, it’s trying to lure opponents in so that it can stab them with its spear-like hair.",
-    personality: [
-      "mysterious",
-      "cunning",
-      "night-dwelling",
-      "shadowy",
-      "strategic",
-    ],
-    image: "/pokemon/860.png",
-  },
-  {
-    id: 861,
-    name: "Grimmsnarl",
-    type: ["Dark", "Fairy"],
-    description:
-      "With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.",
-    personality: [
-      "mysterious",
-      "cunning",
-      "night-dwelling",
-      "shadowy",
-      "strategic",
-    ],
-    image: "/pokemon/861.png",
-  },
-  {
-    id: 862,
-    name: "Obstagoon",
-    type: ["Dark", "Normal"],
-    description:
-      "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.",
-    personality: [
-      "mysterious",
-      "cunning",
-      "night-dwelling",
-      "shadowy",
-      "strategic",
-    ],
-    image: "/pokemon/862.png",
-  },
-  {
-    id: 863,
-    name: "Perrserker",
-    type: ["Steel"],
-    description:
-      "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
-    personality: ["strong", "metallic", "defensive", "sharp", "durable"],
-    image: "/pokemon/863.png",
-  },
-  {
-    id: 864,
-    name: "Cursola",
-    type: ["Ghost"],
-    description:
-      "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon’s core spirit.",
-    personality: [
-      "mysterious",
-      "ethereal",
-      "haunting",
-      "spiritual",
-      "otherworldly",
-    ],
-    image: "/pokemon/864.png",
-  },
-  {
-    id: 865,
-    name: "Sirfetchd",
-    type: ["Fighting"],
-    description:
-      "Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.",
-    personality: [
-      "strong",
-      "determined",
-      "brave",
-      "competitive",
-      "disciplined",
-    ],
-    image: "/pokemon/865.png",
-  },
-  {
-    id: 866,
-    name: "Mr-rime",
-    type: ["Ice", "Psychic"],
-    description:
-      "It’s highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
-    personality: ["cool", "calm", "frozen", "crystalline", "serene"],
-    image: "/pokemon/866.png",
-  },
-  {
-    id: 867,
-    name: "Runerigus",
-    type: ["Ground", "Ghost"],
-    description:
-      "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.",
-    personality: ["sturdy", "earthy", "solid", "reliable", "grounded"],
-    image: "/pokemon/867.png",
-  },
-  {
-    id: 868,
-    name: "Milcery",
-    type: ["Fairy"],
-    description:
-      "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
-    personality: ["magical", "cute", "enchanting", "protective", "mystical"],
-    image: "/pokemon/868.png",
-  },
-  {
-    id: 869,
-    name: "Alcremie",
-    type: ["Fairy"],
-    description:
-      "When it trusts a Trainer, it will treat them to berries it’s decorated with cream.",
-    personality: ["magical", "cute", "enchanting", "protective", "mystical"],
-    image: "/pokemon/869.png",
-  },
-  {
-    id: 870,
-    name: "Falinks",
-    type: ["Fighting"],
-    description:
-      "Five of them are troopers, and one is the brass. The brass’s orders are absolute.",
-    personality: [
-      "strong",
-      "determined",
-      "brave",
-      "competitive",
-      "disciplined",
-    ],
-    image: "/pokemon/870.png",
-  },
-  {
-    id: 871,
-    name: "Pincurchin",
-    type: ["Electric"],
-    description:
-      "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/871.png",
-  },
-  {
-    id: 872,
-    name: "Snom",
-    type: ["Ice", "Bug"],
-    description:
-      "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
-    personality: ["cool", "calm", "frozen", "crystalline", "serene"],
-    image: "/pokemon/872.png",
-  },
-  {
-    id: 873,
-    name: "Frosmoth",
-    type: ["Ice", "Bug"],
-    description:
-      "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit.",
-    personality: ["cool", "calm", "frozen", "crystalline", "serene"],
-    image: "/pokemon/873.png",
-  },
-  {
-    id: 874,
-    name: "Stonjourner",
-    type: ["Rock"],
-    description:
-      "It stands in grasslands, watching the sun’s descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks.",
-    personality: ["solid", "sturdy", "defensive", "ancient", "enduring"],
-    image: "/pokemon/874.png",
-  },
-  {
-    id: 875,
-    name: "Eiscue-ice",
-    type: ["Ice"],
-    description:
-      "It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.",
-    personality: ["cool", "calm", "frozen", "crystalline", "serene"],
-    image: "/pokemon/875.png",
-  },
-  {
-    id: 876,
-    name: "Indeedee-male",
-    type: ["Psychic", "Normal"],
-    description:
-      "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
-    personality: [
-      "intelligent",
-      "mystical",
-      "telepathic",
-      "wise",
-      "mysterious",
-    ],
-    image: "/pokemon/876.png",
-  },
-  {
-    id: 877,
-    name: "Morpeko-full-belly",
-    type: ["Electric", "Dark"],
-    description:
-      "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/877.png",
-  },
-  {
-    id: 878,
-    name: "Cufant",
-    type: ["Steel"],
-    description:
-      "It digs up the ground with its trunk. It’s also very strong, being able to carry loads of over five tons without any problem at all.",
-    personality: ["strong", "metallic", "defensive", "sharp", "durable"],
-    image: "/pokemon/878.png",
-  },
-  {
-    id: 879,
-    name: "Copperajah",
-    type: ["Steel"],
-    description:
-      "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
-    personality: ["strong", "metallic", "defensive", "sharp", "durable"],
-    image: "/pokemon/879.png",
-  },
-  {
-    id: 880,
-    name: "Dracozolt",
-    type: ["Electric", "Dragon"],
-    description:
-      "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/880.png",
-  },
-  {
-    id: 881,
-    name: "Arctozolt",
-    type: ["Electric", "Ice"],
-    description:
-      "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/881.png",
-  },
-  {
-    id: 882,
-    name: "Dracovish",
-    type: ["Water", "Dragon"],
-    description:
-      "Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/882.png",
-  },
-  {
-    id: 883,
-    name: "Arctovish",
-    type: ["Water", "Ice"],
-    description:
-      "Though it’s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/883.png",
-  },
-  {
-    id: 884,
-    name: "Duraludon",
-    type: ["Steel", "Dragon"],
-    description:
-      "Its body resembles polished metal, and it’s both lightweight and strong. The only drawback is that it rusts easily.",
-    personality: ["strong", "metallic", "defensive", "sharp", "durable"],
-    image: "/pokemon/884.png",
-  },
-  {
-    id: 885,
-    name: "Dreepy",
-    type: ["Dragon", "Ghost"],
-    description:
-      "After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
-    personality: ["powerful", "majestic", "legendary", "ancient", "proud"],
-    image: "/pokemon/885.png",
-  },
-  {
-    id: 886,
-    name: "Drakloak",
-    type: ["Dragon", "Ghost"],
-    description:
-      "It’s capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.",
-    personality: ["powerful", "majestic", "legendary", "ancient", "proud"],
-    image: "/pokemon/886.png",
-  },
-  {
-    id: 887,
-    name: "Dragapult",
-    type: ["Dragon", "Ghost"],
-    description:
-      "When it isn’t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
-    personality: ["powerful", "majestic", "legendary", "ancient", "proud"],
-    image: "/pokemon/887.png",
-  },
-  {
-    id: 888,
-    name: "Zacian",
-    type: ["Fairy"],
-    description:
-      "Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.",
-    personality: ["magical", "cute", "enchanting", "protective", "mystical"],
-    image: "/pokemon/888.png",
-  },
-  {
-    id: 889,
-    name: "Zamazenta",
-    type: ["Fighting"],
-    description:
-      "In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle.",
-    personality: [
-      "strong",
-      "determined",
-      "brave",
-      "competitive",
-      "disciplined",
-    ],
-    image: "/pokemon/889.png",
-  },
-  {
-    id: 890,
-    name: "Eternatus",
-    type: ["Poison", "Dragon"],
-    description:
-      "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.",
-    personality: ["toxic", "cunning", "dangerous", "adaptive", "resilient"],
-    image: "/pokemon/890.png",
-  },
-  {
-    id: 891,
-    name: "Kubfu",
-    type: ["Fighting"],
-    description:
-      "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.",
-    personality: [
-      "strong",
-      "determined",
-      "brave",
-      "competitive",
-      "disciplined",
-    ],
-    image: "/pokemon/891.png",
-  },
-  {
-    id: 892,
-    name: "Urshifu-single-strike",
-    type: ["Fighting", "Dark"],
-    description:
-      "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.",
-    personality: [
-      "strong",
-      "determined",
-      "brave",
-      "competitive",
-      "disciplined",
-    ],
-    image: "/pokemon/892.png",
-  },
-  {
-    id: 893,
-    name: "Zarude",
-    type: ["Dark", "Grass"],
-    description:
-      "Within dense forests, this Pokémon lives in a pack with others of its kind. It’s incredibly aggressive, and the other Pokémon of the forest fear it.",
-    personality: [
-      "mysterious",
-      "cunning",
-      "night-dwelling",
-      "shadowy",
-      "strategic",
-    ],
-    image: "/pokemon/893.png",
-  },
-  {
-    id: 894,
-    name: "Regieleki",
-    type: ["Electric"],
-    description:
-      "This Pokémon is a cluster of electrical energy. It’s said that removing the rings on Regieleki’s body will unleash the Pokémon’s latent power.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/894.png",
-  },
-  {
-    id: 895,
-    name: "Regidrago",
-    type: ["Dragon"],
-    description:
-      "An academic theory proposes that Regidrago’s arms were once the head of an ancient dragon Pokémon. The theory remains unproven.",
-    personality: ["powerful", "majestic", "legendary", "ancient", "proud"],
-    image: "/pokemon/895.png",
-  },
-  {
-    id: 896,
-    name: "Glastrier",
-    type: ["Ice"],
-    description:
-      "Glastrier emits intense cold from its hooves. It’s also a belligerent Pokémon—anything it wants, it takes by force.",
-    personality: ["cool", "calm", "frozen", "crystalline", "serene"],
-    image: "/pokemon/896.png",
-  },
-  {
-    id: 897,
-    name: "Spectrier",
-    type: ["Ghost"],
-    description:
-      "It probes its surroundings with all its senses save one—it doesn’t use its sense of sight. Spectrier’s kicks are said to separate soul from body.",
-    personality: [
-      "mysterious",
-      "ethereal",
-      "haunting",
-      "spiritual",
-      "otherworldly",
-    ],
-    image: "/pokemon/897.png",
-  },
-  {
-    id: 898,
-    name: "Calyrex",
-    type: ["Psychic", "Grass"],
-    description:
-      "Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.",
-    personality: [
-      "intelligent",
-      "mystical",
-      "telepathic",
-      "wise",
-      "mysterious",
-    ],
-    image: "/pokemon/898.png",
-  },
-  {
-    id: 899,
-    name: "Wyrdeer",
-    type: ["Normal", "Psychic"],
-    description:
-      "The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing.",
-    personality: ["balanced", "adaptable", "friendly", "common", "versatile"],
-    image: "/pokemon/899.png",
-  },
-  {
-    id: 900,
-    name: "Kleavor",
-    type: ["Bug", "Rock"],
-    description:
-      "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee.",
-    personality: [
-      "industrious",
-      "small",
-      "numerous",
-      "adaptable",
-      "metamorphic",
-    ],
-    image: "/pokemon/900.png",
-  },
-  {
-    id: 901,
-    name: "Ursaluna",
-    type: ["Ground", "Normal"],
-    description:
-      "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.",
-    personality: ["sturdy", "earthy", "solid", "reliable", "grounded"],
-    image: "/pokemon/901.png",
-  },
-  {
-    id: 902,
-    name: "Basculegion-male",
-    type: ["Water", "Ghost"],
-    description:
-      "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/902.png",
-  },
-  {
-    id: 903,
-    name: "Sneasler",
-    type: ["Fighting", "Poison"],
-    description:
-      "Because of Sneasler's virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs.",
-    personality: [
-      "strong",
-      "determined",
-      "brave",
-      "competitive",
-      "disciplined",
-    ],
-    image: "/pokemon/903.png",
-  },
-  {
-    id: 904,
-    name: "Overqwil",
-    type: ["Dark", "Poison"],
-    description:
-      "Its lancelike spikes and savage temperament have earned it the nickname ”sea fiend.” It slurps up poison to nourish itself.",
-    personality: [
-      "mysterious",
-      "cunning",
-      "night-dwelling",
-      "shadowy",
-      "strategic",
-    ],
-    image: "/pokemon/904.png",
-  },
-  {
-    id: 905,
-    name: "Enamorus-incarnate",
-    type: ["Fairy", "Flying"],
-    description:
-      "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.",
-    personality: ["magical", "cute", "enchanting", "protective", "mystical"],
-    image: "/pokemon/905.png",
-  },
-  {
-    id: 906,
-    name: "Sprigatito",
-    type: ["Grass"],
-    description:
-      "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/906.png",
-  },
-  {
-    id: 907,
-    name: "Floragato",
-    type: ["Grass"],
-    description:
-      "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/907.png",
-  },
-  {
-    id: 908,
-    name: "Meowscarada",
-    type: ["Grass", "Dark"],
-    description:
-      "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/908.png",
-  },
-  {
-    id: 909,
-    name: "Fuecoco",
-    type: ["Fire"],
-    description:
-      "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/909.png",
-  },
-  {
-    id: 910,
-    name: "Crocalor",
-    type: ["Fire"],
-    description:
-      "The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/910.png",
-  },
-  {
-    id: 911,
-    name: "Skeledirge",
-    type: ["Fire", "Ghost"],
-    description:
-      "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/911.png",
-  },
-  {
-    id: 912,
-    name: "Quaxly",
-    type: ["Water"],
-    description:
-      'This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime."',
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/912.png",
-  },
-  {
-    id: 913,
-    name: "Quaxwell",
-    type: ["Water"],
-    description:
-      "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/913.png",
-  },
-  {
-    id: 914,
-    name: "Quaquaval",
-    type: ["Water", "Fighting"],
-    description:
-      "A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.",
-    personality: ["calm", "flowing", "adaptable", "cleansing", "deep"],
-    image: "/pokemon/914.png",
-  },
-  {
-    id: 915,
-    name: "Lechonk",
-    type: ["Normal"],
-    description:
-      "It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging.",
-    personality: ["balanced", "adaptable", "friendly", "common", "versatile"],
-    image: "/pokemon/915.png",
-  },
-  {
-    id: 916,
-    name: "Oinkologne-male",
-    type: ["Normal"],
-    description:
-      "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
-    personality: ["balanced", "adaptable", "friendly", "common", "versatile"],
-    image: "/pokemon/916.png",
-  },
-  {
-    id: 917,
-    name: "Tarountula",
-    type: ["Bug"],
-    description:
-      "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy.",
-    personality: [
-      "industrious",
-      "small",
-      "numerous",
-      "adaptable",
-      "metamorphic",
-    ],
-    image: "/pokemon/917.png",
-  },
-  {
-    id: 918,
-    name: "Spidops",
-    type: ["Bug"],
-    description:
-      "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
-    personality: [
-      "industrious",
-      "small",
-      "numerous",
-      "adaptable",
-      "metamorphic",
-    ],
-    image: "/pokemon/918.png",
-  },
-  {
-    id: 919,
-    name: "Nymble",
-    type: ["Bug"],
-    description:
-      "It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
-    personality: [
-      "industrious",
-      "small",
-      "numerous",
-      "adaptable",
-      "metamorphic",
-    ],
-    image: "/pokemon/919.png",
-  },
-  {
-    id: 920,
-    name: "Lokix",
-    type: ["Bug", "Dark"],
-    description:
-      "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
-    personality: [
-      "industrious",
-      "small",
-      "numerous",
-      "adaptable",
-      "metamorphic",
-    ],
-    image: "/pokemon/920.png",
-  },
-  {
-    id: 921,
-    name: "Pawmi",
-    type: ["Electric"],
-    description:
-      "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/921.png",
-  },
-  {
-    id: 922,
-    name: "Pawmo",
-    type: ["Electric", "Fighting"],
-    description:
-      "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/922.png",
-  },
-  {
-    id: 923,
-    name: "Pawmot",
-    type: ["Electric", "Fighting"],
-    description:
-      "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
-    personality: ["energetic", "shocking", "fast", "charged", "bright"],
-    image: "/pokemon/923.png",
-  },
-  {
-    id: 924,
-    name: "Tandemaus",
-    type: ["Normal"],
-    description:
-      "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
-    personality: ["balanced", "adaptable", "friendly", "common", "versatile"],
-    image: "/pokemon/924.png",
-  },
-  {
-    id: 925,
-    name: "Maushold-family-of-four",
-    type: ["Normal"],
-    description:
-      "The two little ones just appeared one day. The group might be a family of related Pokémon, but nobody knows for sure.",
-    personality: ["balanced", "adaptable", "friendly", "common", "versatile"],
-    image: "/pokemon/925.png",
-  },
-  {
-    id: 926,
-    name: "Fidough",
-    type: ["Fairy"],
-    description:
-      "This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.",
-    personality: ["magical", "cute", "enchanting", "protective", "mystical"],
-    image: "/pokemon/926.png",
-  },
-  {
-    id: 927,
-    name: "Dachsbun",
-    type: ["Fairy"],
-    description:
-      "The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages.",
-    personality: ["magical", "cute", "enchanting", "protective", "mystical"],
-    image: "/pokemon/927.png",
-  },
-  {
-    id: 928,
-    name: "Smoliv",
-    type: ["Grass", "Normal"],
-    description:
-      "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/928.png",
-  },
-  {
-    id: 929,
-    name: "Dolliv",
-    type: ["Grass", "Normal"],
-    description:
-      "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/929.png",
-  },
-  {
-    id: 930,
-    name: "Arboliva",
-    type: ["Grass", "Normal"],
-    description:
-      "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
-    personality: ["nurturing", "peaceful", "growing", "natural", "patient"],
-    image: "/pokemon/930.png",
-  },
-  {
-    id: 931,
-    name: "Squawkabilly-green-plumage",
-    type: ["Normal", "Flying"],
-    description:
-      "These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
-    personality: ["balanced", "adaptable", "friendly", "common", "versatile"],
-    image: "/pokemon/931.png",
-  },
-  {
-    id: 932,
-    name: "Nacli",
-    type: ["Rock"],
-    description:
-      "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
-    personality: ["solid", "sturdy", "defensive", "ancient", "enduring"],
-    image: "/pokemon/932.png",
-  },
-  {
-    id: 933,
-    name: "Naclstack",
-    type: ["Rock"],
-    description:
-      "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.",
-    personality: ["solid", "sturdy", "defensive", "ancient", "enduring"],
-    image: "/pokemon/933.png",
-  },
-  {
-    id: 934,
-    name: "Garganacl",
-    type: ["Rock"],
-    description:
-      "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
-    personality: ["solid", "sturdy", "defensive", "ancient", "enduring"],
-    image: "/pokemon/934.png",
-  },
-  {
-    id: 935,
-    name: "Charcadet",
-    type: ["Fire"],
-    description:
-      "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/935.png",
-  },
-  {
-    id: 936,
-    name: "Armarouge",
-    type: ["Fire", "Psychic"],
-    description:
-      "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
-    personality: ["passionate", "energetic", "fierce", "hot-tempered", "brave"],
-    image: "/pokemon/936.png",
   },
 ];
