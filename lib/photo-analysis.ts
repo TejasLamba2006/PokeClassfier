@@ -1,9 +1,8 @@
 import { ImageAnnotatorClient } from "@google-cloud/vision";
-
-const vision = new ImageAnnotatorClient({
-  projectId: process.env.GOOGLE_CLOUD_PROJECT_ID,
-  keyFilename: process.env.GOOGLE_CLOUD_KEY_FILE,
-});
+import {
+  getGoogleVisionClient,
+  isGoogleVisionAvailable,
+} from "./google-cloud-config";
 
 export interface PhotoAnalysisResult {
   faces: any[];
@@ -20,6 +19,14 @@ export async function analyzePhotosWithGoogleVision(
   files: File[]
 ): Promise<PhotoAnalysisResult> {
   console.log(`🔍 Analyzing ${files.length} photos with Google Vision AI...`);
+
+  const vision = getGoogleVisionClient();
+  if (!vision) {
+    console.log(
+      "⚠️ Google Vision not available, falling back to mock analysis"
+    );
+    return analyzeMockPhotos(files);
+  }
 
   const allFaces: any[] = [];
   const allObjects: any[] = [];
@@ -180,7 +187,7 @@ function processColorData(colors: any[]) {
 function processEmotionData(emotions: any[]) {
   if (emotions.length === 0) return [];
 
-  const emotionSummary = {
+  const emotionSummary: Record<string, any> = {
     joy: 0,
     sorrow: 0,
     anger: 0,
