@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: "PokéClassifier - AI-Powered Photo Personality Analysis",
   description:
     "Upload your photos and discover which Pokémon matches your personality using advanced AI visual analysis and facial recognition.",
-  generator: "v0.dev",
   icons: {
     icon: "/favicon.png",
     shortcut: "/favicon.png",
