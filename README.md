@@ -4,7 +4,8 @@
 
 Transform your photos into personality-matched Pokémon! PokéClassifier uses advanced AI visual analysis to examine your facial expressions, personality traits, and visual style to match you with your perfect Pokémon companion based on sophisticated computer vision and personality assessment.
 
-*[Screenshot of homepage will go here]*
+![image](https://github.com/user-attachments/assets/16c005f3-c84c-468e-a62a-c38ea58a1761)
+
 
 ## What Makes This Special
 
@@ -19,7 +20,11 @@ Ever wondered which Pokémon you'd be based on your actual appearance and person
 - **Multi-Photo Analysis** - Upload up to 5 photos for more accurate personality assessment
 - **Premium Features** - Unlimited analyses and priority processing
 
-*[Screenshot of analysis results will go here]*
+
+
+https://github.com/user-attachments/assets/36c916cd-ed4a-45a9-ac4c-d3b82737902f
+
+
 
 ## How It Works
 
