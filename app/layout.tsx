@@ -11,6 +11,11 @@ export const metadata: Metadata = {
   description:
     "Upload your photos and discover which Pokémon matches your personality using advanced AI visual analysis and facial recognition.",
   generator: "v0.dev",
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
