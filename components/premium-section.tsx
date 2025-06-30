@@ -17,37 +17,14 @@ import {
   Zap,
   Heart,
   ExternalLink,
-  Gift,
 } from "lucide-react";
-import { useSession } from "next-auth/react";
-import { useState } from "react";
 
 import { pokemonDatabase } from "@/lib/pokemon-data";
 
 export function PremiumSection() {
-  const { data: session } = useSession();
-  const [isGrantingPremium, setIsGrantingPremium] = useState(false);
-
   const handleJoinDiscord = () => {
     const discordUrl = process.env.NEXT_PUBLIC_DISCORD_URL;
     window.open(discordUrl, "_blank", "noopener,noreferrer");
-  };
-
-  const handleGrantPremium = async () => {
-    if (!session?.user?.email) return;
-
-    setIsGrantingPremium(true);
-    try {
-      alert(
-        "🎉 Premium access granted! You now have unlimited photo analyses. Refresh the page to see changes."
-      );
-      window.location.reload();
-    } catch (error) {
-      console.error("Failed to grant premium:", error);
-      alert("Failed to grant premium access. Please try again.");
-    } finally {
-      setIsGrantingPremium(false);
-    }
   };
 
   const isPremium = false;
@@ -227,31 +204,14 @@ export function PremiumSection() {
                 </div>
 
                 {!isPremium && (
-                  <>
-                    <Button
-                      onClick={handleJoinDiscord}
-                      className="w-full bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white font-semibold py-3 text-lg mt-6"
-                      size="lg"
-                    >
-                      <ExternalLink className="w-5 h-5 mr-2" />
-                      Join Premium Discord
-                    </Button>
-
-                    {session?.user && (
-                      <Button
-                        onClick={handleGrantPremium}
-                        variant="outline"
-                        className="w-full border-purple-200 hover:bg-purple-50 font-semibold py-3 text-lg mt-2"
-                        size="lg"
-                        disabled={isGrantingPremium}
-                      >
-                        <Gift className="w-5 h-5 mr-2" />
-                        {isGrantingPremium
-                          ? "Granting..."
-                          : "Grant Premium (Demo)"}
-                      </Button>
-                    )}
-                  </>
+                  <Button
+                    onClick={handleJoinDiscord}
+                    className="w-full bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white font-semibold py-3 text-lg mt-6"
+                    size="lg"
+                  >
+                    <ExternalLink className="w-5 h-5 mr-2" />
+                    Join Discord for Premium
+                  </Button>
                 )}
 
                 {isPremium && (

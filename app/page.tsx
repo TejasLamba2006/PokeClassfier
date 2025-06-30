@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { Upload, Sparkles, Users, Crown } from "lucide-react";
+import { Upload, Sparkles, Users, Crown, Github, Linkedin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   Card,
@@ -69,6 +69,40 @@ export default function HomePage() {
           </div>
 
           <div className="flex items-center space-x-4">
+            <Button
+              variant="outline"
+              size="sm"
+              asChild
+              className="border-[#0077B5] text-[#0077B5] hover:bg-[#0077B5] hover:text-white"
+            >
+              <a
+                href="https://linkedin.com/in/tejaslamba"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center space-x-1"
+              >
+                <Linkedin className="w-4 h-4" />
+                <span>LinkedIn</span>
+              </a>
+            </Button>
+
+            <Button
+              variant="outline"
+              size="sm"
+              asChild
+              className="border-[#333] text-[#333] hover:bg-[#333] hover:text-white"
+            >
+              <a
+                href="https://github.com/TejasLamba2006/PokeClassfier"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center space-x-1"
+              >
+                <Github className="w-4 h-4" />
+                <span>Source</span>
+              </a>
+            </Button>
+
             {user && (
               <div className="flex items-center space-x-2">
                 <Badge variant={usage?.isPremium ? "default" : "secondary"}>
@@ -92,7 +126,6 @@ export default function HomePage() {
       </header>
 
       <main className="container mx-auto px-4 py-8">
-        {/* Hero Section */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -127,7 +160,6 @@ export default function HomePage() {
           </div>
         </motion.div>
 
-        {/* Upload Section */}
         {!results && (
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -160,7 +192,6 @@ export default function HomePage() {
           </motion.div>
         )}
 
-        {/* Results Section */}
         {results && (
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -174,7 +205,6 @@ export default function HomePage() {
           </motion.div>
         )}
 
-        {/* Pricing Section */}
         {!user ||
           (!usage?.isPremium && usage?.count >= 5 && (
             <motion.div
@@ -186,6 +216,41 @@ export default function HomePage() {
             </motion.div>
           ))}
       </main>
+
+      <footer className="border-t bg-white/80 backdrop-blur-sm">
+        <div className="container mx-auto px-4 py-6">
+          <div className="text-center space-y-3">
+            <div className="flex justify-center space-x-6 text-sm">
+              <a
+                href="/privacy"
+                className="text-gray-600 hover:text-gray-900 hover:underline transition-colors"
+              >
+                Privacy Policy
+              </a>
+              <a
+                href="/terms"
+                className="text-gray-600 hover:text-gray-900 hover:underline transition-colors"
+              >
+                Terms of Service
+              </a>
+            </div>
+            <p className="text-sm text-gray-600">
+              © {new Date().getFullYear()} Tejas Lamba. All rights reserved.
+            </p>
+            <p className="text-sm text-gray-600">
+              Made with <span className="text-red-500 text-base">❤️</span> by{" "}
+              <a
+                href="https://linkedin.com/in/tejaslamba"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#0077B5] hover:underline font-medium"
+              >
+                Tejas Lamba
+              </a>
+            </p>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }
