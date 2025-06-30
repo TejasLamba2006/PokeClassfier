@@ -82,10 +82,8 @@
     "react-resizable-panels": "^2.1.7",
     "recharts": "2.15.0",
     "sonner": "^1.7.1",
-    "stripe": "latest",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
-    "tesseract.js": "^6.0.1",
     "vaul": "^0.9.6",
     "zod": "latest"
   },
@@ -98,7 +96,6 @@
     "typescript": "^5"
   },
   "trustedDependencies": [
-    "protobufjs",
-    "tesseract.js"
+    "protobufjs"
   ]
 }
